@@ -80,6 +80,8 @@ diesen "vorgang" muss jemand mit etwas wie "Popkin System-Archtect" vorbereitet 
 
 popkin system architekt war ca. 2001 in der HTL / FHA / FHNW auf einigen rechnern installiert, das wäre dann vermutlich ein Blackhat tool
 
+also ein blackhat tool für social engeneering, bzw. blakchat social engineering
+
     ==============================
 -=[ Mon Mar 18 04:19:15 PM CET 2024 ]=-
     ==============================
