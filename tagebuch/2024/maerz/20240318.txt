@@ -22,3 +22,9 @@ marc@debian:~/hackerscardgame-notes-s24m01$ git rev-parse HEAD
 -=[ Mon Mar 18 03:32:24 AM CET 2024 ]=-
     ==============================
 
+also da ist wieder mal raumüberwachung beteiligt...
+
+    ==============================
+-=[ Mon Mar 18 03:32:47 AM CET 2024 ]=-
+    ==============================
+
