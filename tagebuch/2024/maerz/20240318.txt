@@ -16,3 +16,9 @@ marc@debian:~/hackerscardgame-notes-s24m01$ git rev-parse HEAD
 -=[ Mon Mar 18 03:29:12 AM CET 2024 ]=-
     ==============================
 
+[x] Set Attribute aus Drucker genommen und abgelegt
+
+    ==============================
+-=[ Mon Mar 18 03:32:24 AM CET 2024 ]=-
+    ==============================
+
