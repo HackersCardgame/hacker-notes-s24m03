@@ -10,3 +10,9 @@ marc@debian:~/hackerscardgame-notes-s24m01$ git rev-parse HEAD
 -=[ Mon Mar 18 03:28:31 AM CET 2024 ]=-
     ==============================
 
+[x] Attribute Document Printed on this file
+
+    ==============================
+-=[ Mon Mar 18 03:29:12 AM CET 2024 ]=-
+    ==============================
+
