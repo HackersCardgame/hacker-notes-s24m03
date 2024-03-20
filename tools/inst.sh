@@ -23,7 +23,7 @@ apt-get install libvirt-daemon-system
 apt-get install ffmpeg
 apt-get install kdenlive
 apt-get install obs-studio
-apt-get install tesseract
+apt-get install tesseract-ocr
 apt-get install nvidia-detect
 
 apt-get install cups-client
