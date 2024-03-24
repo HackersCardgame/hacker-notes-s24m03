@@ -12,6 +12,7 @@ Dabei fällt mir auf (Rechtlich Spekulation), dass diese Karte schon recht viel 
 
 Ich sehem ich natürlich genötigt das zu PETZEN ...
 
+Zur Bestrafung wollen die jetzt scheinbar grad meinen PC-Computer zercybern und mich mit Computer-neu-Installieren spammen
 
 
 Sun Mar 24 03:09:55 PM CET 2024
