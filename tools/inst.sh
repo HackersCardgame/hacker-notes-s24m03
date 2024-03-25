@@ -25,6 +25,10 @@ apt-get install kdenlive
 apt-get install obs-studio
 apt-get install tesseract-ocr
 apt-get install nvidia-detect
+apt-get install locate
+updatedb
+apt-get install apt-file
+apt-file update
 
 apt-get install cups-client
 
