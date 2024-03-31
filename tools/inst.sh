@@ -29,6 +29,8 @@ apt-get install locate
 updatedb
 apt-get install apt-file
 apt-file update
+apt-get install espeak-ng
+apt-get install callibre
 
 apt-get install cups-client
 
