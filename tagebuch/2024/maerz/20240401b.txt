@@ -19,3 +19,36 @@ loop {
 -=[ Mon Apr 1 06:25:47 AM CEST 2024 ]=-
     ==============================
 
+dann hätte ich drauf getiptt, dass die CH-Army ein recht restriktives "Least Privilege" system haben weil die sich alle gegenseitig nciht trauen
+* also z.B. das Wundversorgungs-Sabotage-Team sieht meinen Bildschirm nicht aber habne kompletten zugriff auf meinen körper [1], wirst case denkt das wundversorungs-sabotage-team, dass sie wirklich einen terroristen angreifen würden, aber selbst einen terroristen dürfte man bei wundversorgung afaik nicht sabotieren, apropos genfer konvention
+
+[1] berechtigungs-System in einem 3D modell, wo es verschieden scihten gibt (Model View controller)
+
+
+dann sollte das FEDPOL mal allenfalls durchrechnen oder vielleihct bekommt man als FEDPOL da auch die Dokumente dazu:
+
+es gibt ein Minimal System für Brainjacking
+
+    --- neuralink Sendeinfrasturktur beim Opfer
+ e  |
+ i  |
+ n  |-- neuralink Sendeinfrastruktur bei dessen Archnemesis wie z.B. pädokriminelle Eltern
+    |                                                                -> nach dem Tod des Opfers wären sie hauptverdächtige, nicht nur mittäter
+ N  |
+ e  |
+ t  --- ein Brainjacknig Team
+ z  |
+ w  |
+ e  |
+ r  |
+ k  --- ein Sabotage Team für Dinge in der Wohnung
+ -
+ t
+ e
+ a
+ m  <- z.B. etwas wie SE235, bereits die 1996er Variante hat einen Seriellen Port
+ 
+    ==============================
+-=[ Mon Apr 1 07:35:28 AM CEST 2024 ]=-
+    ==============================
+
