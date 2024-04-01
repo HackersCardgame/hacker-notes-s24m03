@@ -8,4 +8,6 @@ sollte mich mal zu Telegram mit etwas wie yubi-key informieren vermutlcih
 
 bzw. lügen hasse ich sowieso und falsch gelöste puzzles auch, besteht noch die möglichkeit, dass das zeitgesteuert war, und wegen all dem terror gegen mich ich das versifft habe, bzw. sie diese mist grad auf diesen termin gelegt habe
 
+relevanter wäre aber, dass somit urs bl. mindestens seit 2001 im Brainjacking team der CH-Army wäre, welche asylanten wie Hapte A. brainjacken, dann content brainjacken und dann in Frankfurt zur ermordung eines kleinen jugnen aktivieren
+
 
