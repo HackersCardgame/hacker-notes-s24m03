@@ -83,7 +83,13 @@ lösch den Benutzer einfach:
     ==============================
 
 
+nächte Malware aktiviert worden, und erstes mal geschafft das zu beweisen
 
+cyberWar/fileChooserDialogMalware/
+
+    ==============================
+-=[ Tue Apr 2 04:53:32 PM CEST 2024 ]=-
+    ==============================
 
 
 
