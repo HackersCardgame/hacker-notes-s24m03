@@ -108,3 +108,16 @@ aussage stefan frehner: bei der kantons polizei aargau
 -=[ Thu Apr 4 05:16:15 AM CEST 2024 ]=-
     ==============================
 
+
+Dann nur FALLS diese "nette" [1] "neuralink marschbefehl übermittlung" stimmt die an dem Paket geklebt ist, BZW vermutlcih von der Post-Abhol-Fächern mit Strichcode auf meine Neuralink geladen wurde und der Waöter Brigger [2], dann hätte die Schweiz ein echtes Peputationsproblem, weil der brigger hat ja gesagt, dass er die WEF Luftüberwachung mache, und [LOCK] da kommen auch amerikanische präsidenten mit dem Flugzeug
+
+dann befragung durch das FEDPOL oder INTERPOL des Herrn OberstLeutnand Walter Brigger, ob er weiss, dass erstens menschen zu Drohnen auf 2 beinen umfunktionert werde, wirst case bereits seit 1950 und zweitens in wiefern er wie mutmasslich urs blum auch in einem Brainjacking team ist dass dann den Hapte A. umproigrammiert und in Deutschland mit der Drohne auf 2 Beinen einen kleinen Jungen ermordet
+
+[1] "nett" in Gänsefüsschen ist in diesem Fall anprangernd zynisch gemeimt
+
+[2] der an der ABB Technikerschule wo auch der Urs blum seine Ausbildung gemacht hat, und auch der damalige nachbar im Rombachtäli als ich noch keine technikerschule gemacht hatte, und wo ich eher eine PETZE als ein Verschwörer bin professor für "datenbanken" udn "Windows batch scripte" ist
+
+    ==============================
+-=[ Thu Apr 4 06:40:10 AM CEST 2024 ]=-
+    ==============================
+
