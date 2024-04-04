@@ -51,4 +51,12 @@ urs blkum verrät mit dem varrat am markus amsler, dass markus amselr der ETH so
 
 ziel von urs blum ist mit brainjacking marc jr landolt vom balkon zu steuern, und dann den herrn staatsanwalt marco Spring(vomBalkon) dafür als einzigen täter zu nenenn
 
+die schweizer armee lagert in vielen Firmen in der Schweiz reale und virtuelle sprengfallen die nach belieben aktiviert werden können
+-> da herr urs blum sich schon zu oft verrraten hat empfehlen wir den herrn urs blum permanent in gewahrsahm zu halten
+
+    ==============================
+-=[ Thu Apr 4 04:50:38 AM CEST 2024 ]=-
+    ==============================
+
+
 
