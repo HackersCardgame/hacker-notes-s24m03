@@ -72,3 +72,13 @@ somit falls das stimmt würde die schweiz zerbombt werden vermute ich jetzt
 
 
 
+Thu Apr  4 05:04:51 AM CEST 2024
+
+für mich als informatik student das wichtigste:
+
+neue zensursoftware um straftäter vor strafverfolgung zu schützen, das macht aber die zürich versichrung im Auftrag der CH-Army nicht aus nettigkeit, jeder dieser täter kann die CH-Army mit dem Leak der Strafakte und der beweise die sie somit vermutlcih auch sammel gegen ihren mandanten in den amoklauf aktivieren, bzw. die CH-Army redet nciht von amokläufern sondern von soldaten
+
+FALLS das stimmt >  empfelen  < wir FEDPOL und INTERPOL diese Strafakten-Erpresserdatenbank der Zürich Verischerung zu entschärfen und alle beteiligten und nutzinesser für immer zu verwahren
+
+
+
