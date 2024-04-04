@@ -28,5 +28,7 @@ somit sind alle 2200 pädophilie fälle bzw. deren beweiskette des polizsisten m
 dominic zschocke: FALLS nur einer dieser Menschen deswegen suizid oder amok gelaufen ist hat der staat somit aufgehört zu existierten
 morde durch mathias berner auftrags der INDUSTRIA studenteverbindung
 
+rethorischer automatismus "hat der staat aufgehört zu existieren" habe ich bisher nur von dominic zschcke gehört
+
 
 
