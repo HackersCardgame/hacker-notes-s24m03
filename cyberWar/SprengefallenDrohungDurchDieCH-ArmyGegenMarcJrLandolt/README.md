@@ -24,3 +24,9 @@ urs blum und pfstierer mit seinem hahaha das strassenverkerhsamtr hat eine kolle
 parralell testet die Zürich versichrung neue zensursofftware an der unfreiwilligen laborratte marc jr landolt, screenhsot bzw meldung deaktiiert, computer vor 3h neu aufgestetzt, marc jr landolt hat die beweisekette eingehalten
 
 somit sind alle 2200 pädophilie fälle bzw. deren beweiskette des polizsisten mathias berner alllenfalls von der armee manipuliert worden
+
+dominic zschocke: FALLS nur einer dieser Menschen deswegen suizid oder amok gelaufen ist hat der staat somit aufgehört zu existierten
+morde durch mathias berner auftrags der INDUSTRIA studenteverbindung
+
+
+
