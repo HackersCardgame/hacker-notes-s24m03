@@ -80,5 +80,7 @@ neue zensursoftware um straftäter vor strafverfolgung zu schützen, das macht a
 
 FALLS das stimmt >  empfelen  < wir FEDPOL und INTERPOL diese Strafakten-Erpresserdatenbank der Zürich Verischerung zu entschärfen und alle beteiligten und nutzinesser für immer zu verwahren
 
+dann falls das stimmt wäre vermutlcih klar, dass der CEO der Zürich Verischerung der selbstmord begangen haben soll eingelich von der CH-Army liquidiert wurde, vielleihct sogar vom scheinhieiligen informatik und risiko analyst urs blum 
+
 
 
