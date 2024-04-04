@@ -21,4 +21,6 @@ urs blum und pfisterer brauchen sprengfallendrohungern gegen marc jr landolt oft
 
 urs blum und pfstierer mit seinem hahaha das strassenverkerhsamtr hat eine kollektive psychose will so psychologische kriegsführung gegen alle schweizer verüben
 
+parralell testet die Zürich versichrung neue zensursofftware an der unfreiwilligen laborratte marc jr landolt, screenhsot bzw meldung deaktiiert, computer vor 3h neu aufgestetzt, marc jr landolt hat die beweisekette eingehalten
 
+somit sind alle 2200 pädophilie fälle bzw. deren beweiskette des polizsisten mathias berner alllenfalls von der armee manipuliert worden
