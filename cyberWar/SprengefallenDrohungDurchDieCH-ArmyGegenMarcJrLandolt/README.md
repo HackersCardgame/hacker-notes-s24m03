@@ -39,5 +39,6 @@ somit wenn jemand weissese rauschen auf neuralink auf [UB] den elektroden aufged
 
 urs blkum verrät mit dem varrat am markus amsler, dass markus amselr der ETH somit vermutlich zugriff auf die überwachung an marc jr landolts computjer hat, so den markus amsler zum amokläöufer aktiviert
 
+ziel von urs blum ist mit brainjacking marc jr landolt vom balkon zu steuern, und dann den herrn staatsanwalt marco Spring(vomBalkon) dafür als einzigen täter zu nenenn
 
 
