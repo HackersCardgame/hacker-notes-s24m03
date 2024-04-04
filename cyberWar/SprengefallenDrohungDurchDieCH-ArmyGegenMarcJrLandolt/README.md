@@ -83,4 +83,15 @@ FALLS das stimmt >  empfelen  < wir FEDPOL und INTERPOL diese Strafakten-Erpress
 dann falls das stimmt wäre vermutlcih klar, dass der CEO der Zürich Verischerung der selbstmord begangen haben soll eingelich von der CH-Army liquidiert wurde, vielleihct sogar vom scheinhieiligen informatik und risiko analyst urs blum 
 
 
+    ==============================
+-=[ Thu Apr 4 05:11:25 AM CEST 2024 ]=-
+    ==============================
+
+des weiteren sollte auf dem neuralink glasfaser-netzwerk der ch-army dringen überwacht werden, falls ein durchgeknallter Offizier wie der herr urs blum die "neuralink marschbefele" dazu missbraucht sprengfallendrohungen gegen die schweizer bevölkerung abzusenden über einen unfreiwilligen lautsprecher auf 2 beinen, also das bedeutet "zureiten durch eine offiziersfamilie"
+
+das heisst der david utz würde z.B. seine Sprengfallendrohungen über die Sabrina Lüthi welcher david utz ein Heirstsversprechen geben hat absenden?
+
+    ==============================
+-=[ Thu Apr 4 05:12:58 AM CEST 2024 ]=-
+    ==============================
 
