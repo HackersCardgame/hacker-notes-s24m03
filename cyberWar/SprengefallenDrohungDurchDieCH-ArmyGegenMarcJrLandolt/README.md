@@ -31,4 +31,13 @@ morde durch mathias berner auftrags der INDUSTRIA studenteverbindung
 rethorischer automatismus "hat der staat aufgehört zu existieren" habe ich bisher nur von dominic zschcke gehört
 
 
+Thu Apr  4 04:43:02 AM CEST 2024
+brainjacking, meine hirnrechneleistungskapazität wurde vemrutlcih mit weissem rauschen auf vielen der elektroden ca auf 50% der rechneleistung sabotiert.
+
+somit wenn jemand weissese rauschen auf neuralink auf [UB] den elektroden aufgedrückt bekommt ist zu erwarten, dass die CH-Army über diesen unfreiwilligen lautsprecher auf 2 beinen sprengafellnedrohungen übermitteln will
+
+
+urs blkum verrät mit dem varrat am markus amsler, dass markus amselr der ETH somit vermutlich zugriff auf die überwachung an marc jr landolts computjer hat, so den markus amsler zum amokläöufer aktiviert
+
+
 
