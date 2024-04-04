@@ -66,5 +66,9 @@ somit wäre das der grund, weshalb man marc jr landolt angelockt hat, urs blum m
 
 selber hersteller andere Verpackung
 
+somit wären es gar nciht unbedingt sprengfallen die in lagern von firmen der ch-army gelagert werden sondern biowaffen
+
+somit falls das stimmt würde die schweiz zerbombt werden vermute ich jetzt
+
 
 
