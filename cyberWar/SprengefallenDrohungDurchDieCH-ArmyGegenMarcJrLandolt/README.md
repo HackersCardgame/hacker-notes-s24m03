@@ -115,7 +115,7 @@ dann befragung durch das FEDPOL oder INTERPOL des Herrn OberstLeutnand Walter Br
 
 [1] "nett" in Gänsefüsschen ist in diesem Fall anprangernd zynisch gemeimt
 
-[2] der an der ABB Technikerschule wo auch der Urs blum seine Ausbildung gemacht hat, und auch der damalige nachbar im Rombachtäli als ich noch keine technikerschule gemacht hatte, und wo ich eher eine PETZE als ein Verschwörer bin professor für "datenbanken" udn "Windows batch scripte" ist
+[2] der an der ABB Technikerschule wo auch der Urs blum seine Ausbildung gemacht hat, und auch der damalige nachbar im Rombachtäli als ich noch keine technikerschule gemacht hatte, und wo ich eher eine PETZE als ein Verschwörer bin professor für "datenbanken" udn "Windows batch scripte" ist   --- "Pferde stehlen" (Euphemismus)
 
     ==============================
 -=[ Thu Apr 4 06:40:10 AM CEST 2024 ]=-
