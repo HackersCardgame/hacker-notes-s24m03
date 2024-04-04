@@ -95,3 +95,16 @@ das heisst der david utz würde z.B. seine Sprengfallendrohungen über die Sabri
 -=[ Thu Apr 4 05:12:58 AM CEST 2024 ]=-
     ==============================
 
+URS BLUM: sämtliche agenten der zürich versicherung in den amoklaujf gegen amrc jr landolt aktivieren <- das wäre das auf Zeile 7944
+
+dann psychologische komponente:
+
+wie geisteskrank muss man sein, dass man solche dinge wie urs blum oder david utz oder markus belser verübt, und wer hat markus belser dabei geholfen als drogenkonsument dann einen posten als polizilst zu bekommen?
+
+aussage stefan frehner: bei der kantons polizei aargau
+
+
+    ==============================
+-=[ Thu Apr 4 05:16:15 AM CEST 2024 ]=-
+    ==============================
+
