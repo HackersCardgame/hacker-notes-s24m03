@@ -34,6 +34,16 @@ rethorischer automatismus "hat der staat aufgehört zu existieren" habe ich bish
 Thu Apr  4 04:43:02 AM CEST 2024
 brainjacking, meine hirnrechneleistungskapazität wurde vemrutlcih mit weissem rauschen auf vielen der elektroden ca auf 50% der rechneleistung sabotiert.
 
+
+Technisch ist es eine dDOS Sprengfalle die gegen marc jr landolt aktiviert wurde, richtig viele amtspersonen die von urs blum und der erpresserdatenbank der zürkich vericherung grad belastet wurden, schon mit nicht so viel evidence dass es für einen rehctsfall reicht
+
+wir vermuten urs blum erpresst so gelder von markus amsler oder dem staatsanwlatr marco spring
+dazu sollte das FEDPOL beide betroffenen befragen
+
+    ==============================
+-=[ Thu Apr 4 04:48:19 AM CEST 2024 ]=-
+    ==============================
+
 somit wenn jemand weissese rauschen auf neuralink auf [UB] den elektroden aufgedrückt bekommt ist zu erwarten, dass die CH-Army über diesen unfreiwilligen lautsprecher auf 2 beinen sprengafellnedrohungen übermitteln will
 
 
