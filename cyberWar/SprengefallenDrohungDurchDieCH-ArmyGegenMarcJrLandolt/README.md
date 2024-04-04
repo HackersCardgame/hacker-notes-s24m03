@@ -17,4 +17,8 @@ URS BLUm: SPRENGGFALLE AKTGIVC
 unbekanntt:
 urs blum missbraucht marc jr landolt als unfreiwilligen lautsprecher auf zwei beinen 
 
+urs blum und pfisterer brauchen sprengfallendrohungern gegen marc jr landolt oft um marc jr landolt davon abzulenken dass grad wieder brainjacking an marc jr landolt verübt wird, somit hätte der post abhol-kasten neuralink malware auf marc jr landolts neuralink geladen, also ein "Marschbefehl" mit dem inhalt "Spregnfallendrohung"
+
+urs blum und pfstierer mit seinem hahaha das strassenverkerhsamtr hat eine kollektive psychose will so psychologische kriegsführung gegen alle schweizer verüben
+
 
