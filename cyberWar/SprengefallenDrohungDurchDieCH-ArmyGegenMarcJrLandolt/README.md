@@ -58,5 +58,10 @@ die schweizer armee lagert in vielen Firmen in der Schweiz reale und virtuelle s
 -=[ Thu Apr 4 04:50:38 AM CEST 2024 ]=-
     ==============================
 
+somit wäre das der grund, weshalb man marc jr landolt angelockt hat, urs blum musste einen unfreiwilligen lautsprecher auf 2 beinen haben weil sonst wäre urs blum 20 jahre früher aufgeflogen
+
+    ==============================
+-=[ Thu Apr 4 04:51:31 AM CEST 2024 ]=-
+    ==============================
 
 
