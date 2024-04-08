@@ -7,7 +7,7 @@
    viewBox="0 0 297 210"
    version="1.1"
    id="svg5"
-   sodipodi:docname="demenz.svg"
+   sodipodi:docname="demenz2.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.9704153"
-     inkscape:cx="433.15741"
-     inkscape:cy="208.58546"
+     inkscape:cx="904.88536"
+     inkscape:cy="339.01482"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -35,25 +35,6 @@
      inkscape:current-layer="layer1" />
   <defs
      id="defs2">
-    <marker
-       style="overflow:visible"
-       id="RoundedArrow"
-       refX="0"
-       refY="0"
-       orient="auto-start-reverse"
-       inkscape:stockid="RoundedArrow"
-       markerWidth="6.1347523"
-       markerHeight="5.9304953"
-       viewBox="0 0 6.1347524 5.9304951"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
-         transform="scale(0.7)"
-         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
-         id="path1367" />
-    </marker>
     <marker
        style="overflow:visible"
        id="RoundedArrow-3"
@@ -88,29 +69,29 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.63113px;line-height:0.9;font-family:Primitive;-inkscape-font-specification:Primitive;text-align:center;text-anchor:middle;opacity:0.829478;fill:#800080;stroke:none;stroke-width:2.13743"
-       x="112.26697"
-       y="54.611187"
+       x="110.67947"
+       y="49.319515"
        id="text3203"><tspan
          sodipodi:role="line"
          id="tspan3201"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Primitive;-inkscape-font-specification:Primitive;stroke:none;stroke-width:2.13743"
-         x="112.26697"
-         y="54.611187">Alte demente Menschen mit </tspan><tspan
+         x="110.67947"
+         y="49.319515">Alte demente Menschen mit </tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Primitive;-inkscape-font-specification:Primitive;stroke:none;stroke-width:2.13743"
-         x="112.26697"
-         y="58.779202"
+         x="110.67947"
+         y="53.487534"
          id="tspan3357">zu viel Access Codes und zu</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Primitive;-inkscape-font-specification:Primitive;stroke:none;stroke-width:2.13743"
-         x="112.26697"
-         y="62.947224"
-         id="tspan3359">viel (Cyber-)Waffen</tspan></text>
-    <path
-       style="opacity:0.829478;fill:none;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;marker-end:url(#RoundedArrow)"
-       d="m 132.85294,19.642346 c -16.24268,-0.466931 -25.65685,2.944689 -27.38087,22.488041"
-       id="path3424"
-       sodipodi:nodetypes="cc" />
+         x="110.67947"
+         y="57.655548"
+         id="tspan3359">viel (Cyber-)Waffen und</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Primitive;-inkscape-font-specification:Primitive;stroke:none;stroke-width:2.13743"
+         x="110.67947"
+         y="61.823566"
+         id="tspan8428">meine sogenannten Eltern</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29306px;font-family:Primitive;-inkscape-font-specification:Primitive;text-align:center;text-anchor:middle;opacity:0.829478;fill:none;stroke:#008000;stroke-width:0.3;stroke-dasharray:none"
@@ -158,8 +139,90 @@
        sodipodi:nodetypes="cc" />
     <path
        style="opacity:0.829478;fill:none;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;marker-end:url(#RoundedArrow-3)"
-       d="m 45.939972,71.747371 c 1.41618,-11.096526 4.74129,-17.134976 18.21679,-16.221436"
+       d="m 45.939972,67.924305 c 1.41618,-11.096526 4.74129,-17.134976 18.21679,-16.221436"
        id="path7841"
        sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29306px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;opacity:0.829478;fill:#00ff00;stroke:#008000;stroke-width:0.3;stroke-linecap:round;stroke-dasharray:none"
+       x="95.333244"
+       y="90.093178"
+       id="text7935"><tspan
+         sodipodi:role="line"
+         id="tspan7933"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:slave;-inkscape-font-specification:slave;fill:#5599ff;stroke:#2a7fff;stroke-width:0.3;stroke-dasharray:none"
+         x="95.333244"
+         y="90.093178">Marc jr.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29306px;font-family:slave;-inkscape-font-specification:slave;text-align:start;text-anchor:start;opacity:0.829478;fill:#11002b;stroke:#11002b;stroke-width:0.3;stroke-linecap:round;stroke-dasharray:none"
+       x="108.35119"
+       y="93.406189"
+       id="text8041"><tspan
+         sodipodi:role="line"
+         id="tspan8039"
+         style="fill:#11002b;stroke:#11002b;stroke-width:0.3"
+         x="108.35119"
+         y="93.406189">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29306px;font-family:slave;-inkscape-font-specification:slave;text-align:start;text-anchor:start;opacity:0.829478;fill:#5599ff;stroke:#2a7fff;stroke-width:0.3;stroke-linecap:round;stroke-dasharray:none"
+       x="110.40945"
+       y="96.218048"
+       id="text8149"><tspan
+         sodipodi:role="line"
+         id="tspan8147"
+         style="fill:#ff5599;stroke:#ff5599;stroke-width:0.3"
+         x="110.40945"
+         y="96.218048">mein Teddy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.7673px;font-family:slave;-inkscape-font-specification:slave;text-align:start;text-anchor:start;opacity:0.829478;fill:#11002b;stroke:none;stroke-width:2.97863;stroke-linecap:round;stroke-dasharray:none"
+       x="141.12175"
+       y="71.420982"
+       id="text9200"><tspan
+         sodipodi:role="line"
+         id="tspan9198"
+         style="stroke:none;stroke-width:2.97863"
+         x="141.12175"
+         y="71.420982">🖧</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.7673px;font-family:slave;-inkscape-font-specification:slave;text-align:start;text-anchor:start;opacity:0.829478;fill:#11002b;stroke:none;stroke-width:2.97863;stroke-linecap:round;stroke-dasharray:none"
+       x="56.219933"
+       y="71.75135"
+       id="text9200-5"><tspan
+         sodipodi:role="line"
+         id="tspan9198-6"
+         style="stroke:none;stroke-width:2.97863"
+         x="56.219933"
+         y="71.75135">🖧</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.5861px;font-family:slave;-inkscape-font-specification:slave;text-align:start;text-anchor:start;opacity:0.829478;fill:#11002b;stroke:none;stroke-width:1.77747;stroke-linecap:round;stroke-dasharray:none"
+       x="82.868401"
+       y="93.430832"
+       id="text10027"><tspan
+         sodipodi:role="line"
+         id="tspan10025"
+         style="stroke-width:1.77747"
+         x="82.868401"
+         y="93.430832">🖥</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.46613px;font-family:slave;-inkscape-font-specification:slave;text-align:start;text-anchor:start;opacity:0.829478;fill:#11002b;stroke:none;stroke-width:0.191812;stroke-linecap:round;stroke-dasharray:none"
+       x="74.614731"
+       y="98.916977"
+       id="text10081"><tspan
+         sodipodi:role="line"
+         id="tspan10079"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sinner;-inkscape-font-specification:sinner;stroke-width:0.191812"
+         x="74.614731"
+         y="98.916977">Neuralink / US4877027</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sinner;-inkscape-font-specification:sinner;stroke-width:0.191812"
+         x="74.614731"
+         y="100.8575"
+         id="tspan10083"> Teamspeak Server</tspan></text>
   </g>
 </svg>

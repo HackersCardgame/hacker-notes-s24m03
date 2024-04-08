@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="demenz3.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.5488266"
+     inkscape:cx="403.20848"
+     inkscape:cy="196.92328"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1L"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1L"
+       markerWidth="8.75"
+       markerHeight="5"
+       viewBox="0 0 8.75 5"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="arrow1L"
+         transform="scale(-0.5)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="RoundedArrow"
+       markerWidth="6.1347523"
+       markerHeight="5.9304953"
+       viewBox="0 0 6.1347524 5.9304951"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path1367-6" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.829478;fill:#ffe680;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-dasharray:none"
+       id="rect11051"
+       width="173.4841"
+       height="78.065842"
+       x="29.621353"
+       y="35.952007" />
+    <ellipse
+       style="opacity:0.829478;fill:none;stroke:#800080;stroke-width:0.866588"
+       id="path234"
+       cx="110.25468"
+       cy="91.542557"
+       rx="43.731724"
+       ry="18.042049" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.63113px;line-height:0.9;font-family:Primitive;-inkscape-font-specification:Primitive;text-align:center;text-anchor:middle;opacity:0.829478;fill:#800080;stroke:none;stroke-width:2.13743"
+       x="110.67947"
+       y="49.319515"
+       id="text3203"><tspan
+         sodipodi:role="line"
+         id="tspan3201"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Primitive;-inkscape-font-specification:Primitive;stroke:none;stroke-width:2.13743"
+         x="110.67947"
+         y="49.319515">Alte <tspan
+   style="fill:#808000"
+   id="tspan10502">demente</tspan> Menschen mit </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Primitive;-inkscape-font-specification:Primitive;stroke:none;stroke-width:2.13743"
+         x="110.67947"
+         y="53.487534"
+         id="tspan3357">zu viel Access Codes und zu</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Primitive;-inkscape-font-specification:Primitive;stroke:none;stroke-width:2.13743"
+         x="110.67947"
+         y="57.655548"
+         id="tspan3359">viel (Cyber-)Waffen und</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Primitive;-inkscape-font-specification:Primitive;stroke:none;stroke-width:2.13743"
+         x="110.67947"
+         y="61.823566"
+         id="tspan8428">meine sogenannten Eltern</tspan></text>
+    <path
+       style="opacity:0.829478;fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;marker-end:url(#RoundedArrow-3)"
+       d="M 176.49216,82.050246 C 175.07598,70.95372 176.84235,48.874185 155.49874,50.644535"
+       id="path5388"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29306px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;opacity:0.829478;fill:#00ff00;stroke:#008000;stroke-width:0.3;stroke-linecap:round;stroke-dasharray:none"
+       x="102.05694"
+       y="89.639359"
+       id="text7935"><tspan
+         sodipodi:role="line"
+         id="tspan7933"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:slave;-inkscape-font-specification:slave;fill:#5599ff;stroke:#2a7fff;stroke-width:0.3;stroke-dasharray:none"
+         x="102.05694"
+         y="89.639359">Marc jr.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29306px;font-family:slave;-inkscape-font-specification:slave;text-align:start;text-anchor:start;opacity:0.829478;fill:#11002b;stroke:#11002b;stroke-width:0.3;stroke-linecap:round;stroke-dasharray:none"
+       x="115.07488"
+       y="92.95237"
+       id="text8041"><tspan
+         sodipodi:role="line"
+         id="tspan8039"
+         style="fill:#11002b;stroke:#11002b;stroke-width:0.3"
+         x="115.07488"
+         y="92.95237">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29306px;font-family:slave;-inkscape-font-specification:slave;text-align:start;text-anchor:start;opacity:0.829478;fill:#5599ff;stroke:#2a7fff;stroke-width:0.3;stroke-linecap:round;stroke-dasharray:none"
+       x="117.13314"
+       y="95.764229"
+       id="text8149"><tspan
+         sodipodi:role="line"
+         id="tspan8147"
+         style="fill:#ff5599;stroke:#ff5599;stroke-width:0.3"
+         x="117.13314"
+         y="95.764229">mein Teddy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.7673px;font-family:slave;-inkscape-font-specification:slave;text-align:start;text-anchor:start;opacity:0.829478;fill:#11002b;stroke:none;stroke-width:2.97863;stroke-linecap:round;stroke-dasharray:none"
+       x="141.12175"
+       y="70.693016"
+       id="text9200"><tspan
+         sodipodi:role="line"
+         id="tspan9198"
+         style="stroke:none;stroke-width:2.97863"
+         x="141.12175"
+         y="70.693016">🖧</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.7673px;font-family:slave;-inkscape-font-specification:slave;text-align:start;text-anchor:start;opacity:0.829478;fill:#11002b;stroke:none;stroke-width:2.97863;stroke-linecap:round;stroke-dasharray:none"
+       x="56.219933"
+       y="70.693016"
+       id="text9200-5"><tspan
+         sodipodi:role="line"
+         id="tspan9198-6"
+         style="stroke:none;stroke-width:2.97863"
+         x="56.219933"
+         y="70.693016">🖧</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.5861px;font-family:slave;-inkscape-font-specification:slave;text-align:start;text-anchor:start;opacity:0.829478;fill:#11002b;stroke:none;stroke-width:1.77747;stroke-linecap:round;stroke-dasharray:none"
+       x="89.592094"
+       y="92.977013"
+       id="text10027"><tspan
+         sodipodi:role="line"
+         id="tspan10025"
+         style="stroke-width:1.77747"
+         x="89.592094"
+         y="92.977013">🖥</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.10064px;font-family:slave;-inkscape-font-specification:slave;text-align:start;text-anchor:start;opacity:0.829478;fill:#11002b;stroke:none;stroke-width:0.143996;stroke-linecap:round;stroke-dasharray:none"
+       x="83.151535"
+       y="97.935753"
+       id="text10081"><tspan
+         sodipodi:role="line"
+         id="tspan10079"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sinner;-inkscape-font-specification:sinner;stroke-width:0.143996"
+         x="83.151535"
+         y="97.935753">Neuralink- / US4877027-</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sinner;-inkscape-font-specification:sinner;stroke-width:0.143996"
+         x="83.151535"
+         y="99.392525"
+         id="tspan10083">Mumble / Teamspeak Server</tspan></text>
+    <g
+       id="g10812"
+       transform="translate(0,2.5113945)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29306px;font-family:Primitive;-inkscape-font-specification:Primitive;text-align:center;text-anchor:middle;opacity:0.829478;fill:#0000ff;stroke:#008000;stroke-width:0.3;stroke-dasharray:none"
+         x="167.37712"
+         y="85.924263"
+         id="text3650-9"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#0000ff;stroke:none;stroke-width:0.3;stroke-dasharray:none"
+           x="167.37712"
+           y="85.924263"
+           id="tspan5437"><tspan
+   id="tspan6761"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#0000ff;stroke:#0000ff;stroke-width:0.3;stroke-dasharray:none">Einflussnahme durch </tspan>getarnte </tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#0000ff;stroke:none;stroke-width:0.3;stroke-dasharray:none"
+           x="167.37712"
+           y="88.829788"
+           id="tspan6763"><tspan
+             style="stroke:#0000ff"
+             id="tspan6759">WirtschaftsKriminelle</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.24975px;font-family:sinner;-inkscape-font-specification:sinner;text-align:start;text-anchor:start;opacity:0.829478;fill:#b3b3b3;stroke:none;stroke-width:0.163504;stroke-linecap:round;stroke-dasharray:none"
+         x="167.26161"
+         y="92.416847"
+         id="text10302"><tspan
+           sodipodi:role="line"
+           id="tspan10300"
+           style="fill:#b3b3b3;stroke-width:0.163504"
+           x="167.26161"
+           y="92.416847">Mit Strafakten Datenbank</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#b3b3b3;stroke-width:0.163504"
+           x="167.26161"
+           y="93.979034"
+           id="tspan10304">der Alten Leute in dieser</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#b3b3b3;stroke-width:0.163504"
+           x="167.26161"
+           y="95.541222"
+           id="tspan10306">Liegenschaft</tspan></text>
+    </g>
+    <g
+       id="g10823">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29306px;font-family:Primitive;-inkscape-font-specification:Primitive;text-align:center;text-anchor:middle;opacity:0.829478;fill:none;stroke:#008000;stroke-width:0.3;stroke-dasharray:none"
+         x="44.294117"
+         y="88.357483"
+         id="text3650"><tspan
+           sodipodi:role="line"
+           id="tspan3648"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';fill:#00ff00;stroke:#008000;stroke-width:0.3;stroke-dasharray:none"
+           x="44.294117"
+           y="88.357483">Einflussnahme durch</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';fill:#00ff00;stroke:none;stroke-width:0.3;stroke-dasharray:none"
+           x="44.294117"
+           y="91.263008"
+           id="tspan4530"><tspan
+   style="stroke:#008000"
+   id="tspan6970">ein</tspan> getarntes  <tspan
+   style="stroke:#008000"
+   id="tspan6972">Militär</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.24975px;font-family:sinner;-inkscape-font-specification:sinner;text-align:start;text-anchor:start;opacity:0.829478;fill:#b3b3b3;stroke:none;stroke-width:0.163504;stroke-linecap:round;stroke-dasharray:none"
+         x="33.507851"
+         y="95.006416"
+         id="text10302-5"><tspan
+           sodipodi:role="line"
+           id="tspan10300-6"
+           style="fill:#b3b3b3;stroke-width:0.163504"
+           x="33.507851"
+           y="95.006416">Mit Strafakten Datenbank</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#b3b3b3;stroke-width:0.163504"
+           x="33.507851"
+           y="96.568604"
+           id="tspan10304-1">der Alten Leute in dieser</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#b3b3b3;stroke-width:0.163504"
+           x="33.507851"
+           y="98.130791"
+           id="tspan10306-1">Liegenschaft</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29306px;font-family:sinner;-inkscape-font-specification:sinner;text-align:start;text-anchor:start;opacity:0.829478;fill:#808000;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-dasharray:none"
+       x="143.01161"
+       y="74.545456"
+       id="text10658"><tspan
+         sodipodi:role="line"
+         id="tspan10656"
+         style="fill:#ff0000;stroke-width:0.3"
+         x="143.01161"
+         y="74.545456">Development</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#ff0000;stroke-width:0.3"
+         x="143.01161"
+         y="77.411781"
+         id="tspan10660">Team 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29306px;font-family:sinner;-inkscape-font-specification:sinner;text-align:start;text-anchor:start;opacity:0.829478;fill:#808000;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-dasharray:none"
+       x="57.401817"
+       y="74.545456"
+       id="text10658-5"
+       inkscape:transform-center-x="4.8378867"
+       inkscape:transform-center-y="-0.83470414"><tspan
+         sodipodi:role="line"
+         id="tspan10656-9"
+         style="fill:#ff0000;stroke-width:0.3"
+         x="57.401817"
+         y="74.545456">Development</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#ff0000;stroke-width:0.3"
+         x="57.401817"
+         y="77.411781"
+         id="tspan10660-8">Team 1</tspan></text>
+    <path
+       style="opacity:0.829478;fill:none;stroke:#008000;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;marker-end:url(#RoundedArrow-3)"
+       d="m 43.488019,81.697912 c 1.41618,-11.096526 -0.35019,-33.176061 20.99342,-31.405711"
+       id="path10825"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:0.829478;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-dasharray:none;marker-end:url(#Arrow1L)"
+       d="m 79.149684,66.580644 c 9.13767,-0.623918 12.762817,0.46728 12.452853,13.523124"
+       id="path10899"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:0.829478;fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-dasharray:none;marker-end:url(#Arrow1L)"
+       d="M 141.3582,66.580644 C 110.25467,71.048755 94.697683,56.475116 95.731303,80.144999"
+       id="path10901"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
