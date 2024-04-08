@@ -95,12 +95,10 @@ marc@debian:~/hacker-notes-s24m03$ figlet '@ Blackhat"s'
   / __ \  | __ )| | __ _  ___| | _| |__   __ _| |_( )___ 
  / / _` | |  _ \| |/ _` |/ __| |/ / '_ \ / _` | __|V/ __|
 | | (_| | | |_) | | (_| | (__|   <| | | | (_| | |_  \__ \
- \ \__,_| |____/|_|\__,_|\___|_|\_\_| |_|\__,_|\__| |___/
+ \ \__,_| |____/|_|\__,_|\___|_|\_\_| |_|\__,_|\__| |___/ () () ()
   \____/                                                   
-marc@debian:~/hacker-notes-s24m03$ 
 
-
-ABER ich VERMUTE
+... ich VERMUTE
 
 * die Zürich Versicherung bezahlt nur beim ersten mal, dann ist man in deren ErpesserDatenbank und muss gratis Cyber-Terrorismus verüben
 * [DELETED / MERGED]
@@ -109,6 +107,4 @@ ABER ich VERMUTE
     ==============================
 -=[ Mon Apr 8 06:29:59 AM CEST 2024 ]=-
     ==============================
-
-
 
