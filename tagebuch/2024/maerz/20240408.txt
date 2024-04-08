@@ -90,6 +90,16 @@ also runden wir mal auf 10 Mia für den Detusch-Sprachigen Raum, dann wären es 
 [1] 50% BrainCPU Weisses Rasuchen eingeschaltet worden <- ziel: die aussage unkenntlich zu machen
 
 
+marc@debian:~/hacker-notes-s24m03$ figlet '@ Blackhat"s'
+   ____    ____  _            _    _           _   _      
+  / __ \  | __ )| | __ _  ___| | _| |__   __ _| |_( )___ 
+ / / _` | |  _ \| |/ _` |/ __| |/ / '_ \ / _` | __|V/ __|
+| | (_| | | |_) | | (_| | (__|   <| | | | (_| | |_  \__ \
+ \ \__,_| |____/|_|\__,_|\___|_|\_\_| |_|\__,_|\__| |___/
+  \____/                                                   
+marc@debian:~/hacker-notes-s24m03$ 
+
+
 ABER ich VERMUTE
 
 * die Zürich Versicherung bezahlt nur beim ersten mal, dann ist man in deren ErpesserDatenbank und muss gratis Cyber-Terrorismus verüben
