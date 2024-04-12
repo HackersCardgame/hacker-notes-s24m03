@@ -1,0 +1,20 @@
+# Selbstwirksamkeit
+
+dann der Schachzug
+
+1. Kleinst-Projektil in Marc jr. Landolts gesicht schiessen
+2. Marc jr merkt das will es entfernen
+3. Medulla Spinalis Neuralink meldet dem Militärsichen Neuralink-Glasfaser-Netzwerk Marc jr Landolts aktuelle Körperhaltung
+4. somit lässt sich mit Forward-/Reverse-Kinematik der ToolCenterPoint des Arbeitswerkzeugs (Pinzette) berechnen
+5. ist der Greifer-Winkel korrekt folgt die Sequenz
+ * Marc jr Landolt wird für max. 1 Sekunde in Dissoziativität geschaltet [1]
+ * Marc jr Landolt während dieser Sekunde seine Körper-Telemetrie verstellen, dass der Tool Center Point nicht mehr den richtigen Winkel hat
+ * Marc jr. Landolt seine Achsmechanik dazu steuern jetzt sich da eine noch viel grössere Wunde zuzufügen
+ * Einspielen von Hochmütigen Sprachsamples von Pfisterer, Urs, Margrit ... "hahaha ist nur trainin und therapie"
+ * Einspielen von Claudine Blum die Marc jr umbringen will, damit urs blums 3 Morde für immer GEHEIM bleiben
+ * Creshendo ICD10 G40.2 Pegel bis Marc jr Landolt vom Balkon springt 
+ 
+
+[1] da ist technisch zB. eine MUTMASSLICHE Möglichkeit, das ganze Gehirn vom Marc jr mit Weissem Rauschen über Elektroden welche im ganzen Gehirn verteilt sein müssten zu fluten
+
+
