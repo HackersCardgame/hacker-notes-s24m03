@@ -13,6 +13,13 @@ dann der Schachzug
  * Einspielen von Hochmütigen Sprachsamples von Pfisterer, Urs, Margrit ... "hahaha ist nur trainin und therapie"
  * Einspielen von Claudine Blum die Marc jr umbringen will, damit urs blums 3 Morde für immer GEHEIM bleiben
  * Creshendo ICD10 G40.2 Pegel bis Marc jr Landolt vom Balkon springt 
+
+
+Relevante Parameter:
+* Einwirkungsdauer
+* Einzel"spieler"
+* das Vertrauen missbraucht oder die Vertrauensperson die statt zu supporten den Zeugen, Opfer, Patienten, Autisten in den Suizid versucht zu treiben, bzw. einfach lustig besoffen bisschen ihre macht auslebt
+
  
 
 [1] da ist technisch zB. eine MUTMASSLICHE Möglichkeit, das ganze Gehirn vom Marc jr mit Weissem Rauschen über Elektroden welche im ganzen Gehirn verteilt sein müssten zu fluten
