@@ -107,6 +107,42 @@ sie haben 1h zeit, wenn marc jr landolt in 1h nicht mausetod ist, dann wird die 
 -=[ Sat Apr 13 03:43:59 AM CEST 2024 ]=-
     ==============================
 
+59:40
+59:30
+
+ich: somit verrät ETH Röösli und Ruflin, dass die ETH Justiz im Kanton Aargau unterwandert hat
+
+    ==============================
+-=[ Sat Apr 13 03:44:46 AM CEST 2024 ]=-
+    ==============================
+
+die ETH ist erfreut über den VERRAT durhc Christoph Rösli und Chathrerinee ruflun [1]
+
+[1] draussen autoraser aktiviert worden
+
+    ==============================
+-=[ Sat Apr 13 03:45:17 AM CEST 2024 ]=-
+    ==============================
+
+christpoh rl
+URS BLUM: Sämtliche sprgenfallen gemäss wunsch christoph rösli aktiv
 
 
+das ist irgen ein creshendo von allenfalls psychotischen offizieren der schweizer armee die jetzt einen auf ahmed den toten terroristen ahcen und ein grösseres terrornetzwerk hochfahren
+
+#KONZEPTWISSEN
+somit gibt somit baupläne der Schweizer armee oder der ETH was iwr dank christoph rösli nun wissen, um ein terrornetzwerk sehr schnell hoch zu fahren und massiv viele menschen aggreissiv zu machen
+
+christphr rüsli <- bei konzeptwissen
+
+53:00 bis zum leak der strafakte von Staatsanwalt marco spring
+ 
+
+ich vermute das ist eine Art Summen Funktion, die ETH Buchhaltung hat eine Liste mächtiger menschen mit zugang zu INTAF, Sprengfallen, panzerfüusten ... und die werden dann einfach alle kativiert
+
+also so etwas wie eine Lavine die von Rösli&ruflin der ETH im Aargau ausgelöst werden kann
+
+    ==============================
+-=[ Sat Apr 13 03:48:59 AM CEST 2024 ]=-
+    ==============================
 
