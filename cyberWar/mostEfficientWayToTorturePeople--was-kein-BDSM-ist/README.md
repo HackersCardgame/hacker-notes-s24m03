@@ -39,9 +39,24 @@ es besteht somit dringender Tatverdacht das einige oder alle Biologie-Studenten 
 
 Sat Apr 13 01:45:55 AM CEST 2024
 
-dann das ist auch VORERST NUR SPEKULATION, aber z.B. für das Computer Spiel COD (Call of Duty) gibt es komplett überteuerte Sleeves für Pistolen (hunderte bis tausende Franken für ein Sleeve), das ist einfach bisschen 3D grafik was schön aussieht -- haben wir gedacht
+dann das ist auch VORERST NUR SPEKULATION, aber z.B. für das Computer Spiel COD (Call of Duty) gibt es komplett überteuerte Sleeves für Pistolen (teilweise hunderte bis tausende Franken für ein Sleeve), das ist einfach bisschen 3D grafik was schön aussieht -- haben wir gedacht
 
 aber das Sleeve wäre dann vermutlich die Suizid-Trigger inhalte, die mit dem Projektil übertragen werden und da wir von einem global vernetzten ClusterFuck von militärischem Global Assessionation Grid ausgehen, wäre dann einfach ein rangtieferer mensch oder einer aus der unterschicht derjenige, welcher das Projektil meist ohne dass Marc jr landolt es merkt ihm ins Geischt schiesst
+
+
+-=[ Sat Apr 13 01:58:31 AM CEST 2024 ]=-
+Druck dieses Dokuments wurde sabotiert, Versuch auf 2. Drucker
+
+-=[ Sat Apr 13 02:01:03 AM CEST 2024 ]=-
+
+Zweiter Drucker geht auch nicht -> systemctl cups restart
+
+-=[ Sat Apr 13 02:03:50 AM CEST 2024 ]=-
+
+geht nicht, wechsle Netzwerkkarte
+
+-> geht
+
 
 
 
