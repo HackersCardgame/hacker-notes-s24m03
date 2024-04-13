@@ -62,9 +62,13 @@ geht nicht, wechsle Netzwerkkarte
 
 dann mit eSports kann man heute ja scheinbar reich werden, da wäre auch die Frage, in wie Fern irgendwelche Militärs ihre nicht vegetarischen Wurscht-Finger im eSports Business haben oder z.B. Sponsor sind
 
+S I N N V O L L E R  R A T S C H L A G
+--------------------------------------
 Dann MITIGATION geht vermutlich besser, wenn man einen Partner/in hat und nicht im "Single-Player-Modus" ist wie ich
 
 
+
+und wegen dem Ratschlag spammen die jetzt wieder mehr
 
 -=[ Sat Apr 13 03:14:04 AM CEST 2024 ]=-
 
@@ -77,6 +81,12 @@ das ist ein Neuralink remote debugger für Körpertelemetrie mit EEG Neuralink d
 + zusätzlich hat vermutlcih das jetzt jemand gelesen und irgendwelhce treibgeseurerten täter haben wieder angefanngen mit der pavlow cyberwaffe auf mich zu shciessen, also m163 Karte 
 
 Deleted: das wäre somit ein spezialist der seit jahren oder jahrzehntes nichts anderes macht als diese Cyberwaffen zu erweitern udn zu verbessern, somit ein weiteres indiz, dass der der Herr Christoph Rösli und irgendwelhce andere Triebtäter die sowohl Biologie als auch Militärwissenshcaften an der ETH stuidert haben
+
+git commit push abgefangen -> bzw. my bad, immer wenn die Triebtäter mein pawlow stimuli / cyberwürge-kette wieder einschalten heisst es auf neuralink "das ist gerechte strafe weil marc jr grad kinderpornographie runterlade" -- und weil ich keine kinderpornographie runterlade wäre das wenn das nicht nur dazu da ist opfer mit intaktem wertesystem zusätzlich abzulenken das internet ab, falls einer der triebgesteuerten ältern nachbarn über meine leitung kinderprongraphie runter lädt 
+
+UNBKANNT: Christoph Rösli und Urs Blum spielen die Pädophilie-Karte immer dann wenn zu viel Straftaten der CH-Army aufgeflogen sind, dann wird z.B. die Tremp oder der Peter Boos dazu motiviert kinderpoinrigraphie über marc jrl andolts wireless runter zu laden
+
+abeschaltet, aber das pawlow stimul / cyber würgekette hat dennoch nciht abeschaltet
 
 [1] sprachsamle Kathrin ruflin hochmütig "hahaha du schaffst es floppy"
 
