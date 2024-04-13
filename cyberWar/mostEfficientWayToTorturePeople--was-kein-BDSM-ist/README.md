@@ -156,3 +156,10 @@ heisse somit der christtoph rösli hat root account auf dem militärsichen neura
 -=[ Sat Apr 13 03:50:06 AM CEST 2024 ]=-
     ==============================
 
+ich:
+dann finde ich grundsätlich gut, dass christoph rösli angefangen hat all die anderen offiziere und technolgien und netzwerke zu verraten
+
+    ==============================
+-=[ Sat Apr 13 03:51:44 AM CEST 2024 ]=-
+    ==============================
+
