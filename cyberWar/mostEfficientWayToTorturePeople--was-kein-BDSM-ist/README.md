@@ -90,4 +90,23 @@ abeschaltet, aber das pawlow stimul / cyber würgekette hat dennoch nciht abesch
 
 [1] sprachsamle Kathrin ruflin hochmütig "hahaha du schaffst es floppy"
 
+    ==============================
+-=[ Sat Apr 13 03:41:25 AM CEST 2024 ]=-
+    ==============================
+Schädelverletzung bei marc jr landolt
+
+herr christoph rösli und catherine ruflin betreiben somit in der neuenburgerstrsase ein taktisches terrornetzwerk / team, das hesist rösli verrät die eth selber um dann derne taktische Terrortruppen auf marc jr landolt abzuschiessen
+
+der christoph rösli ist somit der verbindungs-mensch auf der CD von Kathrin ruflin welcher gerne christen die klippe runter steuert
+
+christoph rösli: ich nenne den staatsanwlat marco spring als mittäter, herr spring vertuschen sie alles oder die ETH wird ihre gesammte beihilfe an bundesbehörden weitzerletiten
+
+sie haben 1h zeit, wenn marc jr landolt in 1h nicht mausetod ist, dann wird die strafakte marco spring an bundesbehörden weitergeleitet
+
+    ==============================
+-=[ Sat Apr 13 03:43:59 AM CEST 2024 ]=-
+    ==============================
+
+
+
 
