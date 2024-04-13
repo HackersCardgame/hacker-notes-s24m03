@@ -190,4 +190,11 @@ Dann wie schon öfters meine Bitte:
 
 hätten die Herren Bio-Terrorismus- und Sprengstoff-Offiziere die VERDAMMTE Güte ihren Cyberkrieg nicht über mich, meine Informatik oder mein Tagebuch zu führen, DANKE 
 
+Also auch das Militär bzw. die OffiziersMesse ist nichts anderes, als ein Pfadfinder-Lager Küchen-Zelt, wo die grossen Leiter tun und machen können was sei wollen und die kleinen nicht drein dürfen, aber den ganzen müll der Leiter abbekommen
+
+nur FALLS dem so ist, dann sollte dann vielleicht doch mal ein Ziviles Kontroll Germium dort mal ein paar sinnvolle qualtiäts-änderungen anbringen
+
+    ==============================
+-=[ Sat Apr 13 04:11:38 AM CEST 2024 ]=-
+    ==============================
 
