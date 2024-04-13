@@ -15,22 +15,22 @@ deb-src https://deb.debian.org/debian bookworm-updates main contrib non-free non
 
 apt-get update
 apt-get upgrade
-apt-get install screen
+apt-get install -y screen
 apt-get purge firefox-esr
-apt-get install epiphany-browser
-apt-get install git vim sudo gnome-boxes figlet inkscape gedit mixxx 
-apt-get install libvirt-daemon-system 
-apt-get install ffmpeg
-apt-get install kdenlive
-apt-get install obs-studio
-apt-get install tesseract-ocr
-apt-get install nvidia-detect
-apt-get install locate
+apt-get install -y epiphany-browser
+apt-get install -y git vim sudo gnome-boxes figlet inkscape gedit mixxx 
+apt-get install -y libvirt-daemon-system 
+apt-get install -y ffmpeg
+apt-get install -y kdenlive
+apt-get install -y obs-studio
+apt-get install -y tesseract-ocr
+apt-get install -y nvidia-detect
+apt-get install -y locate
 updatedb
-apt-get install apt-file
+apt-get install -y apt-file
 apt-file update
-apt-get install espeak-ng
-apt-get install callibre
+apt-get install -y espeak-ng
+apt-get install -y callibre
 
 apt-get install cups-client
 
