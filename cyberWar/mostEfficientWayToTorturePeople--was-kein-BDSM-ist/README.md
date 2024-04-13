@@ -151,7 +151,7 @@ CHRISTOPH RÖÖSLI: gesammtes Offiziersnetzwerk im Kanton Aargau aktivieren und 
 
 ubekannt: band of brothers <- ich: irrelevant, wichtiger, irgendwie muss die ETH ihre Offiziere in den Terroristen Modus aktivieren können
 
-heisse somit der christtoph rösli hat root account auf dem militärsichen neuralink glasfaser netzwerk
+heisse somit der christtoph rösli hat root account auf dem militärsichen neuralink Marschbefhele glasfaser netzwerk
     ==============================
 -=[ Sat Apr 13 03:50:06 AM CEST 2024 ]=-
     ==============================
