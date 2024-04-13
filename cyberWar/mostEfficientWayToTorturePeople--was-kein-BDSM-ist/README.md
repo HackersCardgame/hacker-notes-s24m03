@@ -169,3 +169,14 @@ Liquidation des Offiziers Chrsitoph Rösli in
 
 10:00
 
+
+Dann wie schon öfters meine Bitte:
+
+hätten die Herren Bio-Terrorismus und Sprengstoff offiziere die VERDAMMTE Güte ihren Cyberkrieg ncith über mich zu führen, DANKE 
+
+    ==============================
+-=[ Sat Apr 13 03:53:23 AM CEST 2024 ]=-
+    ==============================
+
+
+
