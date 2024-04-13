@@ -58,5 +58,11 @@ geht nicht, wechsle Netzwerkkarte
 -> geht
 
 
+-=[ Sat Apr 13 02:38:28 AM CEST 2024 ]=-
+
+dann mit eSports kann man heute ja scheinbar reich werden, da wäre auch die Frage, in wie Fern irgendwelche Militärs ihre nicht vegetarischen Wurscht-Finger im eSports Business haben oder z.B. Sponsor sind
+
+Dann MITIGATION geht vermutlich besser, wenn man einen Partner/in hat und nicht im "Single-Player-Modus" ist wie ich
+
 
 
