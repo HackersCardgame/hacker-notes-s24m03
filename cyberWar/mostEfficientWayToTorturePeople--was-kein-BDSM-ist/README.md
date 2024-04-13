@@ -163,3 +163,9 @@ dann finde ich grundsätlich gut, dass christoph rösli angefangen hat all die a
 -=[ Sat Apr 13 03:51:44 AM CEST 2024 ]=-
     ==============================
 
+Staatsanwalt marco spring:
+
+Liquidation des Offiziers Chrsitoph Rösli in 
+
+10:00
+
