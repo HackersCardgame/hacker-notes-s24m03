@@ -66,3 +66,18 @@ Dann MITIGATION geht vermutlich besser, wenn man einen Partner/in hat und nicht 
 
 
 
+-=[ Sat Apr 13 03:14:04 AM CEST 2024 ]=-
+
+wurde scheinbar gar nochmals neue neuralink firmware in diesem kontext auf mein neuralink geladen
+
+gibt intrpsoektion in deren Development Team und in deren Development software
+
+das ist ein Neuralink remote debugger für Körpertelemetrie mit EEG Neuralink daten und FTT-Recognition "jetzt müsste das dumme [1] projektil endlich draussen sein" dann wird diese greifer position / Tool Center Point / körperhaltung wieder gesperrt
+
++ zusätzlich hat vermutlcih das jetzt jemand gelesen und irgendwelhce treibgeseurerten täter haben wieder angefanngen mit der pavlow cyberwaffe auf mich zu shciessen, also m163 Karte 
+
+Deleted: das wäre somit ein spezialist der seit jahren oder jahrzehntes nichts anderes macht als diese Cyberwaffen zu erweitern udn zu verbessern, somit ein weiteres indiz, dass der der Herr Christoph Rösli und irgendwelhce andere Triebtäter die sowohl Biologie als auch Militärwissenshcaften an der ETH stuidert haben
+
+[1] sprachsamle Kathrin ruflin hochmütig "hahaha du schaffst es floppy"
+
+
