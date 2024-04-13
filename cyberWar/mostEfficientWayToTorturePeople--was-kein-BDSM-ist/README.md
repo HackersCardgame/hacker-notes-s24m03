@@ -186,6 +186,8 @@ ist nur > SPEKULATION <, aber als Claudine-Aquila damals 2001 abwertend gesagt h
 -=[ Sat Apr 13 04:08:32 AM CEST 2024 ]=-
     ==============================
 
+Dann wie schon öfters meine Bitte:
 
+hätten die Herren Bio-Terrorismus- und Sprengstoff-Offiziere die VERDAMMTE Güte ihren Cyberkrieg nicht über mich, meine Informatik oder mein Tagebuch zu führen, DANKE 
 
 
