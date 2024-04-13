@@ -146,3 +146,13 @@ also so etwas wie eine Lavine die von Rösli&ruflin der ETH im Aargau ausgelöst
 -=[ Sat Apr 13 03:48:59 AM CEST 2024 ]=-
     ==============================
 
+
+CHRISTOPH RÖÖSLI: gesammtes Offiziersnetzwerk im Kanton Aargau aktivieren und den Zeugen Marc jr Landolt terminieren, sonst geht IHR ALLE IN DEN KANST !!!
+
+ubekannt: band of brothers <- ich: irrelevant, wichtiger, irgendwie muss die ETH ihre Offiziere in den Terroristen Modus aktivieren können
+
+heisse somit der christtoph rösli hat root account auf dem militärsichen neuralink glasfaser netzwerk
+    ==============================
+-=[ Sat Apr 13 03:50:06 AM CEST 2024 ]=-
+    ==============================
+
