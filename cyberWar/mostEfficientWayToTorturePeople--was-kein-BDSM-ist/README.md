@@ -178,5 +178,14 @@ hätten die Herren Bio-Terrorismus und Sprengstoff offiziere die VERDAMMTE Güte
 -=[ Sat Apr 13 03:53:23 AM CEST 2024 ]=-
     ==============================
 
+Heute war ja eigentlich das Thema "militärisch organisierter PädophilenRing fürt zu Substanzmissbrauch bei jungen Menschen"
+
+ist nur > SPEKULATION <, aber als Claudine-Aquila damals 2001 abwertend gesagt hat "Der Christoph Rösli liebt ja seine Mutter", da hat sie gemeint dass Christoph einen Ödipus komplex hat und den Komplex bereits mit seinem Mami ausgelebt hat, und die Cathrine Ruflin mit ihrem "Knochen-Schlosser" Vater einen Elektrakomplex, DELETED: deshalb haben die zwei so hohe Access Codes und zugang zu mutmasslich dem root account auf dem Militärischen Neuralink Marschbefhele Glasfaser NEtzwerk?
+
+    ==============================
+-=[ Sat Apr 13 04:08:32 AM CEST 2024 ]=-
+    ==============================
+
+
 
 
