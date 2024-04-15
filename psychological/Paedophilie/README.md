@@ -32,3 +32,14 @@ aktiv obwohl marc jr landolts Computer gar nicht mit dem Internet Verbunden ist 
 [6] unbekannt: wir danken dem Staatsanwalt Marco Spring(vomBalkon), dass er geholfen hat dass alles verjährt ist
 
 
+
+Mon Apr 15 02:51:14 AM CEST 2024
+Sprachsample von der Englisch Lehrerein der HTL/FHA/FHNW ca. 2001:
+Code Red -- like a cold that kills
+
+somit wurden jetzt vom Global Assessionation Grid auftrags Urs Blum bzw. der Zürich Vericherung bzw. der CH-Army die sich dahinter versteckt auf alle Geräte in Sendereichweite von Marc jr Landolt ein Suizid-Programm hochgeladen
+
+das wäre somit der grund wesahbl die Zürich Verischrung "zwei speziell gesichterte Terminals" hat, das war schon damals 2001 als Urs Blum damit angegeben hat ein Cyber-Waffensystem mti dem Zeugen auf Knopfdruck in den Suizid geschaltet werden können
+
+
+
