@@ -180,9 +180,8 @@ und das würde FALLS das stimmt bedeuten, dass solche Sende Infrastruktur immer 
 * wenn das Neuralink was man mir ohne meine Einwilligung verpasst hat crypto hat, dann hätte jemand sowohl die Crypto-Keys zu meinem Neuralink als aoch das zum Neuralink des/der Nachbarin rausgegeben
   -> crypot-key abfragen wären VERMUTLICH protoklliert
   
+    ==============================
+-=[ Wed Apr 17 03:12:39 AM CEST 2024 ]=-
+    ==============================
  
-
-
-
-
 
