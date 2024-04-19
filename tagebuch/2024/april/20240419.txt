@@ -119,6 +119,8 @@ Loop OberstLeutnande
   }
 }
 
+also nicht ganz scrumm und auch nicht ganz wasserfall modell, so etwas dazwischen
+
 
     ==============================
 -=[ Fri Apr 19 10:32:23 PM CEST 2024 ]=-
