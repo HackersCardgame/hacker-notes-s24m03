@@ -105,7 +105,7 @@ also das kunstwerk "What teddy saw" wo eine gruppe von mesnchen ein baby vergewa
 [LOCK] <- das ist jetzt der ranghöhere, der versucht die tätertruppenmoral der rangtieferen aufzubessern, also ödipus-komplex
 
 
-Loop OberstLeutnande
+Loop OberstLeutnande    [Die haben dann zugriff auf medulla Spinalis und können direkt auf mich drein schlagen]
 {  
   Loop Oberste 
   {
