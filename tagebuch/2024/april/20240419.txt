@@ -113,7 +113,7 @@ Loop OberstLeutnande
     {
       Loop Offiziere
       {
-      
+        whitehats, zeugen, ofpfer oder menschen die gerne jüngere beschützen terrorisieren, damit die anderne fächschen einfachere Beute sind
       }
     }
   }
