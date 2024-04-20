@@ -128,6 +128,9 @@ Urs Blum bringt das Thema Cornelia Utz selber zur Sprache, und da ist an die Akt
 Sortier und Aktiverungsfunktion von Strafakten druch die Zürich Verschierung im Auftrag der Schweizer Armee
 
 
+Gerne auch ein paar informatiker mal drüber nach puzzeln, wie so ein aktiverbarer Strafakten oder Mord Datensatz aussehen könnte
+(Algorithmen / Datenstrukturen Vorlesung)
+
 ===========================================================
 Mord-Akte (z.B Cornelia Utz)
 ===========================================================
