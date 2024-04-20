@@ -367,7 +367,7 @@ heisse somit
 Geiselnamhe über die Beziehugnsebene an Marc jr Landolt druch familie blum
 Geiselnahme über die Beziehugnsebene an [FORK]
 
-[FORK] Sämi Hangartner
+[FORK] Sämi Hangartner <- mit dem FORK hätte das hier gelöscht werden sollen vermute ich 
 [FORK] christoph rösli
 [FORK] patrick breidenbach
 
