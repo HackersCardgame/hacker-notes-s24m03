@@ -310,4 +310,13 @@ dann allenfalls noch ein Update für Jake's Talk: "... and they use all 13 attac
 -=[ Sat Apr 20 08:30:07 AM CEST 2024 ]=-
     ==============================
 
+somit wäre es allenfalls auch nur ein Kettenrasseln mit einer Bandwith drossel funktion allenfalls per tcp/ip stream
+
+dass der router die gesdchwindigkeit drosselt ist jetz schon mal definif ausgeshclossen
+-> da wurde aber als exit strategie iengelbendet, dass das der neue router sei, so würde ich vermeidungsverhalten entwickeln den router zu verwenden... FAILed
+
+    ==============================
+-=[ Sat Apr 20 08:34:52 AM CEST 2024 ]=-
+    ==============================
+
 
