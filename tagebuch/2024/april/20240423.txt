@@ -330,5 +330,11 @@ Der Typ in der Wohnung oben dran oder schräg oben dran (borhammer terror womit 
 -=[ Tue Apr 23 10:16:31 PM CEST 2024 ]=-
     ==============================
 
+FALLS das so etwas wäre, dann wäre es vermutlcih etwas was man induiktiv wieder aufladen kann, und vermutlich ncith mal ein akku, sondern so ein high capacyto Kondensator, also was neueres als ein goden-cap kondensator
+
+    ==============================
+-=[ Tue Apr 23 10:21:54 PM CEST 2024 ]=-
+    ==============================
+
 
 
