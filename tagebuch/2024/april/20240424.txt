@@ -114,3 +114,26 @@ hiesse die als Drogentote getarnte tote Cornelia Utz wurde vorsätzlich ermordet
 -=[ Wed Apr 24 02:48:35 AM CEST 2024 ]=-
     ==============================
 
+dann noch rasch nachbearbeitung vom Tagebuch von gestern, zeile 327:
+
+marc@debian:~/hacker-notes-s24m03/tagebuch/2024/april$ fgrep -ri sendeninfrasturktur  -n --color
+20240423.txt:327:Der Typ in der Wohnung oben dran oder schräg oben dran (borhammer terror womit der ganze terror angefangen heute) hat allenfalls ein kleines Kernloch gebohrt, und die sendeninfrasturktur einbetoniert und dann würde die polizei nciht mal etwas finden.
+
+so wie ich das militärische Überwachungssystem verstanden habe, also das Neuralink und wAffentracking System, kann da ein ADA (Angehöriger der Armee) auch einfach einen Dübel aus Plastik rein-hämmern, und auf hätte könnte jetzt da so ein Sende-überwachungs-Dingsi einbetonieren, und schon bekommt er und sein Batallion Geisteskranker zugriff auf die Zielperson.
+
+Wenn man aber für die Helle Seite der Macht arbeitet, dann scheint das dann einfach nicht mehr zu funktionieren, und man muss ein eigenes "Now i have to Build a GNU ONE" -- Grumpy-Cat-Piraten-Partei Plakat überwachungssystem bauen, aber das kann man dann auch wieder nicht weil dann würde man sich eines StGB143ff (CH-Recht) strafbar machen. Kann noch jemand in den 7.September 2013 zurück-Zeitreisen und der Grumpy cat sagen, dass es nicht so unbedingt die NSA ist welche das Problem darstellt, die NSA ist so der Netzwerk-Knlich des CIA bzw. der USArmy, ABER würde man das dort in 2013 schon verpetzen, würden die Militärs nur noch mehr junge Piraten-Nerdige-Menschen halb ermorden
+
+    ==============================
+-=[ Wed Apr 24 03:49:01 AM CEST 2024 ]=-
+    ==============================
+
+
+
+
+
+
+
+
+
+
+
