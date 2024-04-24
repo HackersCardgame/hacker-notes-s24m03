@@ -158,3 +158,21 @@ apropos band "patent ochsner" mit dem singtext "... do chunt die frau us glaas .
 -=[ Wed Apr 24 04:19:59 AM CEST 2024 ]=-
     ==============================
 
+Positives der letzen paar Tage
+
+* neuer Dual Wan router installiert
+* Aussen Freifunk repariert
+* Monitoring wieder installiert, da ist scheinbar das debian packet zabbis-server-pgsql broken in Bullseye, und ubuntu hat irgend ein pg_sql_prepare-statement php error
+* wohnung geputzt
+* böden desinfiziert
+* ...
+
+sobald die Militärs aber merken, dass ich effizient am Dinge repaireren bin sprengen die mich, meine Ordnung, meine Informatik-Infrastruktur einfach wieder in die Luft. Also das ist auch ein Grund dass ich langsam denke dass alles sowieso nichts bringt und mein tod verdient wäre
+
+    ==============================
+-=[ Wed Apr 24 04:29:06 AM CEST 2024 ]=-
+    ==============================
+
+
+
+
