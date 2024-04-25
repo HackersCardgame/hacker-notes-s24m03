@@ -12,6 +12,9 @@ Christian Tanner: ich schneide Urs Blum mit der goldenen Geflügelschere einen F
     ==============================
 
 * Der SD-Karten Adapter kann ausgeschlossen werden, passiert bei mehreren
+* Dann bei 2 SD-Karten Probleme, aber bei der dritten scheint es zu gehen
+ A) es wäre die SD-Karte selber
+ B) wir sollen glauben es sei die SD-Karte selber, weil die Geheimhaltung der Funk Backdoors im USB Chip wären für die Wirtschaftskriminellen wichtiger
 
 Dann wäre nun das Geheimnis gelöst, weshalb man beim Laptop welcher der Guardian von Snowden bekommen hat auch die Computer-Chips im Laptop mit einer Schleifscheibe zerstört wurden
 
