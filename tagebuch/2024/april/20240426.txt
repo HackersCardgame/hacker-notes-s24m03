@@ -3,6 +3,7 @@
     ==============================
 
 Christian Tanner: ich schneide Urs Blum mit der goldenen Geflügelschere einen Finger ab wenn das bekannt wird, dass:
+-> das hier habe ich zum Schutz von Urs Blum drein geschrieben, denn falls das nicht wieder nur psychologische Kriegsführung wäre, und man schneidet urs Blum einen finger ab gäbe das zu viele Fragen.
 
 " ... gemäss ChatGPT es ca. 2500 Transistoren braucht um ein MILITÄRISCHEN Frequenz-Hopping Debug Funk-Kanal in einen Chip einzubauen. Dieser wurde scheinbar sogar in den Orange PI4 USB eingebaut (VHDL Design Pattern für remote Debugging interface) und scheinbar grad aktiviert worden ..."
 
