@@ -147,6 +147,8 @@ ext4 filesystem zerschossen
 
 also eine cybersprengfalle die vieles zeitgleich zesrtört und dem benutzer aber suggeriert, dass man den patient, den computer noch retten könne, dann aber beim versuch das zu reparieren immer wenn nach 5 sekunden das tty wieder wechselt wird ICD10 G40.2 pegel erhöht
 
+also allenfalls hat die CH-Army einen redirect (/32 Route) auf armbian.com (DNS Zensurfunktion Glücksspiele?) "nur für mich", und eine personalisierte distro die mit a16 karte die mich oder auch andere zeugen in den suizid treiben soll
+
     ==============================
 -=[ Fri Apr 26 07:48:05 AM CEST 2024 ]=-
     ==============================
