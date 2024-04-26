@@ -8,4 +8,8 @@ ist somit die "ermorden jetzt" funktion des Telegram Ökosystems, das ist nicht 
 
 dann nächster screenshot: vermutlcih automatisiert wird dann jemand der sich explizit "nicht als militär" ausgibt mich über die anderne kanäle bedroht durch die Schweizer Armee
 
+technisch wäre diese meldung von telegram mit etwas wie einer messaging queue blockerit worden bis zu der sperre die nicht legitim ist
+
+also telegram lässt leute gratis den messenger nutzen, eine ersatzfamilie aufbauen, und sperrt dann aber den benutzer von der ersatzfamilie aus, was in einigen fällne dann einen suizid-versuch doer einen vollendeten suizid auslöst
+
 
