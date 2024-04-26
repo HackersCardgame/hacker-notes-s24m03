@@ -181,6 +181,7 @@ SOLLTE Urs Blum den Suizid trigger an weitere Personen weitergegeben haben wird 
 
 * den suizid trigger benutzt
 * den suizid trigger hat
+* den suizid trigger je verwendet hat
 * ...
 
 verwhart ist
