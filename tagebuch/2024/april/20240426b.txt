@@ -62,3 +62,27 @@ und dann wenn all diese Dinge immer noch probleme sind udn nicht behoben sind, d
 -=[ Fri Apr 26 10:35:38 AM CEST 2024 ]=-
     ==============================
 
+
+    ==============================
+-=[ Fri Apr 26 10:53:52 AM CEST 2024 ]=-
+    ==============================
+
+... und der Urs Bl. dann ausgerastet ist und seine jüngere noch minderjährige Tochter körperlich misshandelt hat deswegen, da war es eigentlich der Herr Dr. Hansjürg P. der die Tochter welche in der selben Pfadfinder Abteilung war wie Dr. P. "gut (fern)steuerbar" [1] gemacht hat, so die Tochter dazu verwendet hat ins Firmen-Netzwerk der Zürich Verischrung einzudringen, dort vermutlich über die Tochter einen Root-Kit / Trojaner installiert hat, und dann für das Militär Strafakten bzw. Fallakten von Kunden der Zürich Versichrung abgegriffen hat um daraus Profit zu schlagen, oder um mit den Dingen Kunden der Zürich Versicherung zu automatisieren.
+
+Pseudo Code:
+
+loop
+{
+  1. Einblendung der regelübertretung des Klienten der Zürich Versicherung (beliebiger Kommuniations-Kanal)
+  2. Einblendung eines Imperativs welche der Herr Dr. P. gerne ausgeführt gehabt hätte vom Klienten
+  3. Irgendwelchen Spam um von 1. und 2. abzulenken
+}
+
+FALLS ich das Puzzle richtig gelöst HÄTTE, könnten sie das vermutlich dem Herrn Dr. P. nicht nachweisen, weil 
+1. ist er als Psychiater ein Meister der Manipulation
+2. hätte er vorsätzlich gehandelt und somit logsicherweise genug Vorbereitungen getroffen FALLS das mal jemandem auffallen würde
+
+    ==============================
+-=[ Fri Apr 26 11:00:32 AM CEST 2024 ]=-
+    ==============================
+
