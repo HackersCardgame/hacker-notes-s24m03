@@ -13,3 +13,11 @@ technisch wäre diese meldung von telegram mit etwas wie einer messaging queue b
 also telegram lässt leute gratis den messenger nutzen, eine ersatzfamilie aufbauen, und sperrt dann aber den benutzer von der ersatzfamilie aus, was in einigen fällne dann einen suizid-versuch doer einen vollendeten suizid auslöst
 
 
+====================================================================
+====================================================================
+====================================================================
+also Telegram Messenger nimmt von der Schweizer Armee Mordaufträge an
+
+====================================================================
+====================================================================
+====================================================================
