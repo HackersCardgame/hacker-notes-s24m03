@@ -233,7 +233,7 @@ jeder Täter liefert einfach einen noch rangtieferen Täter weiter unten in der 
 -=[ Fri Apr 26 09:10:57 AM CEST 2024 ]=-
     ==============================
 
-die Zürich Versicherung hat einen Buildserver mit etwas wie CI/CID um für praktisch jedes Distribution, betriebssystem auch windows oder osx ein maipuliertes image zu erstellen welches suizid trigger sprengfallen drin hat, also (telweise personalisiserte) state machines, welche dann suizid auslösen sollen
+die Zürich Versicherung hat einen Buildserver mit etwas wie CI/CID um für praktisch jede Distribution, betriebssystem auch windows oder osx ein maipuliertes image zu erstellen welches suizid trigger sprengfallen drin hat, also (telweise personalisiserte) state machines, welche dann suizid auslösen sollen
 
     ==============================
 -=[ Fri Apr 26 09:12:58 AM CEST 2024 ]=-
