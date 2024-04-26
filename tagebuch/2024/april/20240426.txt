@@ -133,4 +133,21 @@ Autisten seien eingeschüchtert wegen dem Zeitungsartikel der Aargauer Zeitung "
 
 
 
+    ==============================
+-=[ Fri Apr 26 07:45:11 AM CEST 2024 ]=-
+    ==============================
+
+dann auch psychologische Kreigsführung
+
+CyberSprengfalle Orange Pi4 nach installation von xorg auf Armbian bullseye
+
+display treiber macht alle 5 sekunden terror, wechselt tty
+font irgend etwas kaum lesbares, aber doch noch so dass man etwas lesen kann
+ext4 filesystem zerschossen
+
+also eine cybersprengfalle die vieles zeitgleich zesrtört und dem benutzer aber suggeriert, dass man den patient, den computer noch retten könne, dann aber beim versuch das zu reparieren immer wenn nach 5 sekunden das tty wieder wechselt wird ICD10 G40.2 pegel erhöht
+
+    ==============================
+-=[ Fri Apr 26 07:48:05 AM CEST 2024 ]=-
+    ==============================
 
