@@ -6,4 +6,6 @@ das ist psychologsiche kreigsführung, löst dann auch jedesmal wenn paralell da
 
 ist somit die "ermorden jetzt" funktion des Telegram Ökosystems, das ist nicht ein bot, das ist auf den Servern von Telegram selber, weil es reagiert uz schnell asl dass es ein bot sein könnte, bei einer Nachricht aus 4 elementen, 3 bilder und einem text, riegelt es beim zweiten bild ab, das wäre somit vermutlcih direkt in telegram und nichtn ein bot
 
+dann nächster screenshot: vermutlcih automatisiert wird dann jemand der sich explizit "nicht als militär" ausgibt mich über die anderne kanäle bedroht durch die Schweizer Armee
+
 
