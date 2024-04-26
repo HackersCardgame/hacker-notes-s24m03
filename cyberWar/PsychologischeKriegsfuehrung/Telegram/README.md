@@ -15,9 +15,14 @@ also telegram lässt leute gratis den messenger nutzen, eine ersatzfamilie aufba
 
 ====================================================================
 ====================================================================
-====================================================================
+
 also Telegram Messenger nimmt von der Schweizer Armee Mordaufträge an
 
 ====================================================================
 ====================================================================
-====================================================================
+
+also Telegram ist eigentlich eine Cyber-Army, Teilhabe, zugehörigekiet, ersatzfamilie anfüttern, dann ausgrenzen und mit der bedingung für cyberwar, amoklauf z.B. auf das kapitol ... wieder zurück in dei Gruppe zu drüfen wie vermutlich das schon seit hugh hefner gemacht wird
+
+
+
+
