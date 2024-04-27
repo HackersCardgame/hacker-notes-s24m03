@@ -17,6 +17,7 @@ russicher geheimdienst "GRU"
 
 - lies mal den NATO SDIP-27 Leval A,B,C nach, das ist dann eine ganz andere Liga als "virus mit einem mail einschleusen" oder "zweites Wifi mit selbem Namen und mehr sendeleistung aufstellen" -- wie besreits gesagt, nur 2500 zusätzliche Transistoren in einem CPU mit Millionen von Transistoren um ein Remote Funk-Debugging Interface "einzubauen" in den CPU, da braucht man nur ein VHDL Design Pattern
 
+also der "Mourpheus" ist ein Baby-Hacker / Script Kiddie
 
     ==============================
 -=[ Sun Apr 28 01:27:46 AM CEST 2024 ]=-
