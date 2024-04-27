@@ -15,7 +15,7 @@ russicher geheimdienst "GRU"
 
 - novizschock auf Türfalle bei Skripal -- das war nur der eine Fall, der dann vorsätzlich oder opportun für psychologishce Kriegsführung verwendet wird
 
-- lies mal den NATO SDIP-27 Leval A,B,C nach, das ist dann eine ganz andere Liga als "virus mit einem mail einschleusen" oder "zweites Wifi mit selbem Namen und mehr sendeleistung aufstellen"
+- lies mal den NATO SDIP-27 Leval A,B,C nach, das ist dann eine ganz andere Liga als "virus mit einem mail einschleusen" oder "zweites Wifi mit selbem Namen und mehr sendeleistung aufstellen" -- wie besreits gesagt, nur 2500 zusätzliche Transistoren in einem CPU mit Millionen von Transistoren um ein Remote Funk-Debugging Interface "einzubauen" in den CPU, da braucht man nur ein VHDL Design Pattern
 
 
     ==============================
