@@ -16,7 +16,7 @@ da wäre noch spannend wie da
 [1] dem sagen die Schweizer "Bostitsch" was so nach Kyrillischem Land tönt
 
 
-Dann selbst wenn das Urteil falsch ist [1], selbst wenn das Urteil vorsätzlich falsch ist weil die Richter oder Staatsanwälte gekauft wurden hat das trotzdem die Wirkung dass man gemieden und ausgegrenzt wird.
+Dann selbst wenn das Urteil falsch ist [1], selbst wenn das Urteil vorsätzlich falsch ist weil die Richter oder Staatsanwälte gekauft wurden hat das trotzdem die Wirkung dass man gemieden und ausgegrenzt wird. Bzw. noch viel besser, selbst wenn Marc jr Landolt unschuldig ist und der Richter aber sagt "Marc jr. ist SCHULDIG", dann werden alle Menschen in seinem Umfeld es als legitim betrachten den Marc jr auszubeuten, dem Marc jr Körperverletzungen zu zufügen (meist feige über remote-zugänge), betractet es das Umfeld es als Legitim permanent seinen Computer zu sprengen, betrachtet es das Umfeld als legitim ihm die Wohnung zu nehmen im Rombachtäli ...
 
 Suggestiv-Verurteilung hätte den Zweck der Isolation, somit wäre das ein Mittel des Militärsichen Abschirmdienstes, der schon Zeugen, Opfer oder Autisten abschrimt, aber nicht im Interesse des Opfers sondern damit es die Täter nicht verrät. Da ist der Fall M o l l l a t t h vermutlich kein Einzelfall und allenfalls auch nur publik gemacht worden weil der seltene Name der perfekte Selektor für Natural Language Processing ist
 
