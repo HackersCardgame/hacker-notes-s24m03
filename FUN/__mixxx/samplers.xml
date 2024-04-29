@@ -1,0 +1,67 @@
+<!DOCTYPE SamplerBank>
+<samplerbank>
+ <sampler group="[Sampler1]"/>
+ <sampler group="[Sampler2]"/>
+ <sampler group="[Sampler3]"/>
+ <sampler group="[Sampler4]"/>
+ <sampler group="[Sampler5]"/>
+ <sampler group="[Sampler6]"/>
+ <sampler group="[Sampler7]"/>
+ <sampler group="[Sampler8]" location="/home/marc/Music/20240326-20-arranged-07-fin.mp3"/>
+ <sampler group="[Sampler9]"/>
+ <sampler group="[Sampler10]"/>
+ <sampler group="[Sampler11]"/>
+ <sampler group="[Sampler12]"/>
+ <sampler group="[Sampler13]"/>
+ <sampler group="[Sampler14]"/>
+ <sampler group="[Sampler15]"/>
+ <sampler group="[Sampler16]" location="/home/marc/Music/20240326-20-arranged-07-fin.mp3"/>
+ <sampler group="[Sampler17]"/>
+ <sampler group="[Sampler18]"/>
+ <sampler group="[Sampler19]"/>
+ <sampler group="[Sampler20]"/>
+ <sampler group="[Sampler21]"/>
+ <sampler group="[Sampler22]"/>
+ <sampler group="[Sampler23]"/>
+ <sampler group="[Sampler24]" location="/home/marc/Music/20240326-20-arranged-07-fin.mp3"/>
+ <sampler group="[Sampler25]"/>
+ <sampler group="[Sampler26]"/>
+ <sampler group="[Sampler27]"/>
+ <sampler group="[Sampler28]"/>
+ <sampler group="[Sampler29]"/>
+ <sampler group="[Sampler30]"/>
+ <sampler group="[Sampler31]"/>
+ <sampler group="[Sampler32]"/>
+ <sampler group="[Sampler33]"/>
+ <sampler group="[Sampler34]"/>
+ <sampler group="[Sampler35]"/>
+ <sampler group="[Sampler36]"/>
+ <sampler group="[Sampler37]"/>
+ <sampler group="[Sampler38]"/>
+ <sampler group="[Sampler39]"/>
+ <sampler group="[Sampler40]"/>
+ <sampler group="[Sampler41]"/>
+ <sampler group="[Sampler42]"/>
+ <sampler group="[Sampler43]"/>
+ <sampler group="[Sampler44]"/>
+ <sampler group="[Sampler45]"/>
+ <sampler group="[Sampler46]"/>
+ <sampler group="[Sampler47]"/>
+ <sampler group="[Sampler48]"/>
+ <sampler group="[Sampler49]"/>
+ <sampler group="[Sampler50]"/>
+ <sampler group="[Sampler51]"/>
+ <sampler group="[Sampler52]"/>
+ <sampler group="[Sampler53]"/>
+ <sampler group="[Sampler54]"/>
+ <sampler group="[Sampler55]"/>
+ <sampler group="[Sampler56]"/>
+ <sampler group="[Sampler57]"/>
+ <sampler group="[Sampler58]"/>
+ <sampler group="[Sampler59]"/>
+ <sampler group="[Sampler60]"/>
+ <sampler group="[Sampler61]"/>
+ <sampler group="[Sampler62]"/>
+ <sampler group="[Sampler63]"/>
+ <sampler group="[Sampler64]"/>
+</samplerbank>
