@@ -1,5 +1,7 @@
 #!/bin/bash
 
+apt-get install guestmount
+
 mkdir -p /media/$1
 
 guestmount -a $1 -m /dev/sda1 /media/$1 
