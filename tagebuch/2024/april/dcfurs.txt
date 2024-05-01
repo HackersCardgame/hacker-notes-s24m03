@@ -24,9 +24,19 @@ so then it was already completely plausible, that anybody would find out that i 
 
 also 
 
+marc@debian:~/hacker-notes-s24m03$ figlet RELEVANT :
+ ____  _____ _     _______     ___    _   _ _____     
+|  _ \| ____| |   | ____\ \   / / \  | \ | |_   _|  _ 
+| |_) |  _| | |   |  _|  \ \ / / _ \ |  \| | | |   (_)
+|  _ <| |___| |___| |___  \ V / ___ \| |\  | | |    _ 
+|_| \_\_____|_____|_____|  \_/_/   \_\_| \_| |_|   (_)
+                                                      
+
+========================================================================================================================
+========================================================================================================================
 No matter if german CCC Hacker Group or US DEFCON Hacker Group, both are ???abgerichtet??? to prefere fluffy discussions. Even if CCC would be a russian hacker team, both nerd-groups of young people got the same brainwash, are all planned for computer things scapegoats
-
-
+========================================================================================================================
+========================================================================================================================
 
 anybody noticed where we started, it was about economic crimes and massmurderer by military people
 
