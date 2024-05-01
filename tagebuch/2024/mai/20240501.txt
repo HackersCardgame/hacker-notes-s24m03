@@ -160,5 +160,13 @@ FALLS du das liest, ich will unbedingt meine naivität wieder zurück haben, geh
 -=[ Wed May 1 03:52:27 PM CEST 2024 ]=-
     ==============================
 
+dann der Halbständigkeits-voller:
+
+das alles original brack.ch handy schaltet kurz mal rasch das wifi aus, um von der wan seite einzudrigen, während die 3 ip addressen bzw. media access control addrs. von der lan seite her terror machen :/
+
+    ==============================
+-=[ Wed May 1 03:55:10 PM CEST 2024 ]=-
+    ==============================
+
 
 
