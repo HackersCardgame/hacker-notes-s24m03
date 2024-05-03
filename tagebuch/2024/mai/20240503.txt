@@ -35,6 +35,29 @@ MUTMASSLICHE Anweisung der Schweizer Armee:
 
 Die Sprengung von Netzwerk-Equipment von Zeugen, Opfern und Autsiten hat immer nur dann [LOCK] zu erfolgen, wenn der Zeuge grad z.B. Kontakt zu jemandem in einem anderen Land hatte.
 
+Foto des aufgebrochenen Pakets wo der Ruter drin war (per fotos dokumentiert und getwtitert) und dieser Vorfall beduetet, dass INTERPOL alle anderen Länder warnen muss, dass einige geisteskranke Offiziere der Schweizer Armee auch nciht dovor zurück schrecken sprengstoff über das Postsystem der Schweiz zu versenden
+
+marc@debian:~/hacker-notes-s24m03$ figlet INTERPOL
+ ___ _   _ _____ _____ ____  ____   ___  _     
+|_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+ | ||  \| | | | |  _| | |_) | |_) | | | | |    
+ | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+|___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+                                               
+marc@debian:~/hacker-notes-s24m03$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+    ==============================
+-=[ Fri May 3 02:18:23 AM CEST 2024 ]=-
+    ==============================
+
+
+
+
 
 
 
