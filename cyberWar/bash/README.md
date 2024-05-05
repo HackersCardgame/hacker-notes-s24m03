@@ -11,6 +11,7 @@ cyberwar ist immer
  * drohungen auf neuralink
  * dinge die am computer wirklcih nciht das machen was sie sollten
  * leaks die man dann nicht ignoriren darf
+ * jemand der an mein medulla spinalis neuralink mit dem remote-baseball schläger druafschlägt dass ich typos (de: tippfleher) mache
 
  -> protokolliert man das nicht so kommt noch vicitim bashing dazu
  * gott ist der landev marc jr landolt doof, er hat nur das & versifft
