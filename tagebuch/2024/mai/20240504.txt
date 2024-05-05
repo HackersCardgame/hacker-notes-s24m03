@@ -69,3 +69,18 @@ TODO: FALLS nur EIN EINZIGER solcher FALL bestätigt werden kann
     beibringen sondern auch psychologische Selbstverteidigung
 
 
+    ==============================
+-=[ Sun May 5 10:58:33 AM CEST 2024 ]=-
+    ==============================
+
+
+dann kleiner hinweis zum permanenten genöle wegen meiner rechtschreibslung
+
+1. Marc jr mag keine Rechtschreib nazis (Lehrer)
+
+2. wenn man für einen notiz 10 Sekunden hat und aber für die korrekte rchtschreibung noch zusätzlich 1 Minute verschendet, die aber eine möglihckeit haben das kurzzeitgedächtnis zu löschen (nicht mit so einem ding wie in "man in black" film, das geht mit segmentieren des gehirns und weissem rauschen auf den elektroden -- science cat meme
+
+3. wenn man es korrigiersen möchte, einfach ein script schreiben, jedes wort mit allen wörtern im /usr/shared/dict/ngerman vergleichen mit jaro winkler ... bzw. dem chat gpt muss man sagen er soll ja nichts sonst ändern
+
+
+
