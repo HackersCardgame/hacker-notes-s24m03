@@ -1,0 +1,8 @@
+sda1
+sdb1
+sdb2
+sdc2
+sdd1
+sde1
+sdf1
+sdg1

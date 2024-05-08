@@ -1,0 +1,361 @@
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git: COMMIT_EDITMSG
+diff -r ./sdf1/ohcg/HackersCardgame10/.git/config ./sdd1/Daten.2020b/code/HackersCardgame10/.git/config
+7c7
+< 	url = https://gitlab.com/HackersCardgame/HackersCardgame10
+---
+> 	url = https://github.com/braindef/HackersCardgame10
+8a9
+> 	pushurl = git@github.com:braindef/HackersCardgame10.git
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git: FETCH_HEAD
+diff -r ./sdf1/ohcg/HackersCardgame10/.git/hooks/fsmonitor-watchman.sample ./sdd1/Daten.2020b/code/HackersCardgame10/.git/hooks/fsmonitor-watchman.sample
+11,14c11,14
+< # The hook is passed a version (currently 2) and last update token
+< # formatted as a string and outputs to stdout a new update token and
+< # all files that have been modified since the update token. Paths must
+< # be relative to the root of the working tree and separated by a single NUL.
+---
+> # The hook is passed a version (currently 1) and a time in nanoseconds
+> # formatted as a string and outputs to stdout all files that have been
+> # modified since the given time. Paths must be relative to the root of
+> # the working tree and separated by a single NUL.
+19,22c19
+< my ($version, $last_update_token) = @ARGV;
+< 
+< # Uncomment for debugging
+< # print STDERR "$0 $version $last_update_token\n";
+---
+> my ($version, $time) = @ARGV;
+25c22,26
+< if ($version ne 2) {
+---
+> 
+> if ($version == 1) {
+> 	# convert nanoseconds to seconds
+> 	$time = int $time / 1000000000;
+> } else {
+30c31,38
+< my $git_work_tree = get_working_dir();
+---
+> my $git_work_tree;
+> if ($^O =~ 'msys' || $^O =~ 'cygwin') {
+> 	$git_work_tree = Win32::GetCwd();
+> 	$git_work_tree =~ tr/\\/\//;
+> } else {
+> 	require Cwd;
+> 	$git_work_tree = Cwd::cwd();
+> }
+34,43d41
+< my $json_pkg;
+< eval {
+< 	require JSON::XS;
+< 	$json_pkg = "JSON::XS";
+< 	1;
+< } or do {
+< 	require JSON::PP;
+< 	$json_pkg = "JSON::PP";
+< };
+< 
+47,60d44
+< 	my $o = watchman_query();
+< 	if (is_work_tree_watched($o)) {
+< 		output_result($o->{clock}, @{$o->{files}});
+< 	}
+< }
+< 
+< sub output_result {
+< 	my ($clockid, @files) = @_;
+< 
+< 	# Uncomment for debugging watchman output
+< 	# open (my $fh, ">", ".git/watchman-output.out");
+< 	# binmode $fh, ":utf8";
+< 	# print $fh "$clockid\n@files\n";
+< 	# close $fh;
+62,77d45
+< 	binmode STDOUT, ":utf8";
+< 	print $clockid;
+< 	print "\0";
+< 	local $, = "\0";
+< 	print @files;
+< }
+< 
+< sub watchman_clock {
+< 	my $response = qx/watchman clock "$git_work_tree"/;
+< 	die "Failed to get clock id on '$git_work_tree'.\n" .
+< 		"Falling back to scanning...\n" if $? != 0;
+< 
+< 	return $json_pkg->new->utf8->decode($response);
+< }
+< 
+< sub watchman_query {
+79,80c47,48
+< 	or die "open2() failed: $!\n" .
+< 	"Falling back to scanning...\n";
+---
+> 	    or die "open2() failed: $!\n" .
+> 	    "Falling back to scanning...\n";
+83c51,52
+< 	# changed since $last_update_token but not from the .git folder.
+---
+> 	# changed since $time but were not transient (ie created after
+> 	# $time but no longer exist).
+89,93c58,62
+< 	my $last_update_line = "";
+< 	if (substr($last_update_token, 0, 1) eq "c") {
+< 		$last_update_token = "\"$last_update_token\"";
+< 		$last_update_line = qq[\n"since": $last_update_token,];
+< 	}
+---
+> 	#
+> 	# The category of transient files that we want to ignore will have a
+> 	# creation clock (cclock) newer than $time_t value and will also not
+> 	# currently exist.
+> 
+95c64,65
+< 		["query", "$git_work_tree", {$last_update_line
+---
+> 		["query", "$git_work_tree", {
+> 			"since": $time,
+97c67
+< 			"expression": ["not", ["dirname", ".git"]]
+---
+> 			"expression": ["not", ["allof", ["since", $time, "cclock"], ["not", "exists"]]]
+101,105d70
+< 	# Uncomment for debugging the watchman query
+< 	# open (my $fh, ">", ".git/watchman-query.json");
+< 	# print $fh $query;
+< 	# close $fh;
+< 
+110,114d74
+< 	# Uncomment for debugging the watch response
+< 	# open ($fh, ">", ".git/watchman-response.json");
+< 	# print $fh $response;
+< 	# close $fh;
+< 
+116c76
+< 	"Falling back to scanning...\n" if $response eq "";
+---
+> 	    "Falling back to scanning...\n" if $response eq "";
+118c78
+< 	"Falling back to scanning...\n" unless $response =~ /^\{/;
+---
+> 	    "Falling back to scanning...\n" unless $response =~ /^\{/;
+120,121c80,88
+< 	return $json_pkg->new->utf8->decode($response);
+< }
+---
+> 	my $json_pkg;
+> 	eval {
+> 		require JSON::XS;
+> 		$json_pkg = "JSON::XS";
+> 		1;
+> 	} or do {
+> 		require JSON::PP;
+> 		$json_pkg = "JSON::PP";
+> 	};
+123,126c90,93
+< sub is_work_tree_watched {
+< 	my ($output) = @_;
+< 	my $error = $output->{error};
+< 	if ($retry > 0 and $error and $error =~ m/unable to resolve root .* directory (.*) is not watched/) {
+---
+> 	my $o = $json_pkg->new->utf8->decode($response);
+> 
+> 	if ($retry > 0 and $o->{error} and $o->{error} =~ m/unable to resolve root .* directory (.*) is not watched/) {
+> 		print STDERR "Adding '$git_work_tree' to watchman's watch list.\n";
+128c95
+< 		my $response = qx/watchman watch "$git_work_tree"/;
+---
+> 		qx/watchman watch "$git_work_tree"/;
+131,138d97
+< 		$output = $json_pkg->new->utf8->decode($response);
+< 		$error = $output->{error};
+< 		die "Watchman: $error.\n" .
+< 		"Falling back to scanning...\n" if $error;
+< 
+< 		# Uncomment for debugging watchman output
+< 		# open (my $fh, ">", ".git/watchman-output.out");
+< 		# close $fh;
+144,152c103
+< 		my $o = watchman_clock();
+< 		$error = $output->{error};
+< 
+< 		die "Watchman: $error.\n" .
+< 		"Falling back to scanning...\n" if $error;
+< 
+< 		output_result($o->{clock}, ("/"));
+< 		$last_update_token = $o->{clock};
+< 
+---
+> 		print "/\0";
+154c105
+< 		return 0;
+---
+> 		exit 0;
+157,171c108,109
+< 	die "Watchman: $error.\n" .
+< 	"Falling back to scanning...\n" if $error;
+< 
+< 	return 1;
+< }
+< 
+< sub get_working_dir {
+< 	my $working_dir;
+< 	if ($^O =~ 'msys' || $^O =~ 'cygwin') {
+< 		$working_dir = Win32::GetCwd();
+< 		$working_dir =~ tr/\\/\//;
+< 	} else {
+< 		require Cwd;
+< 		$working_dir = Cwd::cwd();
+< 	}
+---
+> 	die "Watchman: $o->{error}.\n" .
+> 	    "Falling back to scanning...\n" if $o->{error};
+173c111,113
+< 	return $working_dir;
+---
+> 	binmode STDOUT, ":utf8";
+> 	local $, = "\0";
+> 	print @{$o->{files}};
+diff -r ./sdf1/ohcg/HackersCardgame10/.git/hooks/pre-commit.sample ./sdd1/Daten.2020b/code/HackersCardgame10/.git/hooks/pre-commit.sample
+19c19
+< allownonascii=$(git config --type=bool hooks.allownonascii)
+---
+> allownonascii=$(git config --bool hooks.allownonascii)
+Only in ./sdf1/ohcg/HackersCardgame10/.git/hooks: pre-merge-commit.sample
+diff -r ./sdf1/ohcg/HackersCardgame10/.git/hooks/pre-push.sample ./sdd1/Daten.2020b/code/HackersCardgame10/.git/hooks/pre-push.sample
+17c17
+< #   <local ref> <local oid> <remote ref> <remote oid>
+---
+> #   <local ref> <local sha1> <remote ref> <remote sha1>
+25c25
+< zero=$(git hash-object --stdin </dev/null | tr '[0-9a-f]' '0')
+---
+> z40=0000000000000000000000000000000000000000
+27c27
+< while read local_ref local_oid remote_ref remote_oid
+---
+> while read local_ref local_sha remote_ref remote_sha
+29c29
+< 	if test "$local_oid" = "$zero"
+---
+> 	if [ "$local_sha" = $z40 ]
+34c34
+< 		if test "$remote_oid" = "$zero"
+---
+> 		if [ "$remote_sha" = $z40 ]
+37c37
+< 			range="$local_oid"
+---
+> 			range="$local_sha"
+40c40
+< 			range="$remote_oid..$local_oid"
+---
+> 			range="$remote_sha..$local_sha"
+44,45c44,45
+< 		commit=$(git rev-list -n 1 --grep '^WIP' "$range")
+< 		if test -n "$commit"
+---
+> 		commit=`git rev-list -n 1 --grep '^WIP' "$range"`
+> 		if [ -n "$commit" ]
+Only in ./sdf1/ohcg/HackersCardgame10/.git/hooks: push-to-checkout.sample
+diff -r ./sdf1/ohcg/HackersCardgame10/.git/hooks/update.sample ./sdd1/Daten.2020b/code/HackersCardgame10/.git/hooks/update.sample
+46,50c46,50
+< allowunannotated=$(git config --type=bool hooks.allowunannotated)
+< allowdeletebranch=$(git config --type=bool hooks.allowdeletebranch)
+< denycreatebranch=$(git config --type=bool hooks.denycreatebranch)
+< allowdeletetag=$(git config --type=bool hooks.allowdeletetag)
+< allowmodifytag=$(git config --type=bool hooks.allowmodifytag)
+---
+> allowunannotated=$(git config --bool hooks.allowunannotated)
+> allowdeletebranch=$(git config --bool hooks.allowdeletebranch)
+> denycreatebranch=$(git config --bool hooks.denycreatebranch)
+> allowdeletetag=$(git config --bool hooks.allowdeletetag)
+> allowmodifytag=$(git config --bool hooks.allowmodifytag)
+63c63
+< zero=$(git hash-object --stdin </dev/null | tr '[0-9a-f]' '0')
+---
+> zero="0000000000000000000000000000000000000000"
+Binary files ./sdf1/ohcg/HackersCardgame10/.git/index and ./sdd1/Daten.2020b/code/HackersCardgame10/.git/index differ
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git/info: refs
+diff -r ./sdf1/ohcg/HackersCardgame10/.git/logs/HEAD ./sdd1/Daten.2020b/code/HackersCardgame10/.git/logs/HEAD
+1c1,5
+< 0000000000000000000000000000000000000000 06f1d9c884ae439444b57ea3b7518e3f90a85551 Your Name <you@example.com> 1706945762 +0100	clone: from https://gitlab.com/HackersCardgame/HackersCardgame10
+---
+> 0000000000000000000000000000000000000000 8a5d980440d0466218d12bd3869ce4176e330668 Your Name <you@example.com> 1591514098 +0200	clone: from https://github.com/braindef/HackersCardgame10
+> 8a5d980440d0466218d12bd3869ce4176e330668 f6cc308d4234942c86c9060de175764fb377f43c Your Name <you@example.com> 1591514244 +0200	commit: update
+> f6cc308d4234942c86c9060de175764fb377f43c 641248dcc5666df93eb85c00bf53a1b2e2380fff Your Name <you@example.com> 1591524613 +0200	pull: Fast-forward
+> 641248dcc5666df93eb85c00bf53a1b2e2380fff 758d1a079c297d5f43422b3e1eaff4faef8cc712 Your Name <you@example.com> 1591526108 +0200	pull: Fast-forward
+> 758d1a079c297d5f43422b3e1eaff4faef8cc712 f740ad2d70c3972435ad3c1e3e9fb018dc125726 Your Name <you@example.com> 1593275636 +0200	pull: Fast-forward
+diff -r ./sdf1/ohcg/HackersCardgame10/.git/logs/refs/heads/master ./sdd1/Daten.2020b/code/HackersCardgame10/.git/logs/refs/heads/master
+1c1,5
+< 0000000000000000000000000000000000000000 06f1d9c884ae439444b57ea3b7518e3f90a85551 Your Name <you@example.com> 1706945762 +0100	clone: from https://gitlab.com/HackersCardgame/HackersCardgame10
+---
+> 0000000000000000000000000000000000000000 8a5d980440d0466218d12bd3869ce4176e330668 Your Name <you@example.com> 1591514098 +0200	clone: from https://github.com/braindef/HackersCardgame10
+> 8a5d980440d0466218d12bd3869ce4176e330668 f6cc308d4234942c86c9060de175764fb377f43c Your Name <you@example.com> 1591514244 +0200	commit: update
+> f6cc308d4234942c86c9060de175764fb377f43c 641248dcc5666df93eb85c00bf53a1b2e2380fff Your Name <you@example.com> 1591524613 +0200	pull: Fast-forward
+> 641248dcc5666df93eb85c00bf53a1b2e2380fff 758d1a079c297d5f43422b3e1eaff4faef8cc712 Your Name <you@example.com> 1591526108 +0200	pull: Fast-forward
+> 758d1a079c297d5f43422b3e1eaff4faef8cc712 f740ad2d70c3972435ad3c1e3e9fb018dc125726 Your Name <you@example.com> 1593275636 +0200	pull: Fast-forward
+diff -r ./sdf1/ohcg/HackersCardgame10/.git/logs/refs/remotes/origin/HEAD ./sdd1/Daten.2020b/code/HackersCardgame10/.git/logs/refs/remotes/origin/HEAD
+1c1
+< 0000000000000000000000000000000000000000 06f1d9c884ae439444b57ea3b7518e3f90a85551 Your Name <you@example.com> 1706945762 +0100	clone: from https://gitlab.com/HackersCardgame/HackersCardgame10
+---
+> 0000000000000000000000000000000000000000 8a5d980440d0466218d12bd3869ce4176e330668 Your Name <you@example.com> 1591514098 +0200	clone: from https://github.com/braindef/HackersCardgame10
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git/logs/refs/remotes/origin: master
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git/objects: 00
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git/objects: 13
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git/objects: 1e
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git/objects: 1f
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git/objects: 23
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git/objects: 2a
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git/objects: 52
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git/objects: 63
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git/objects: 67
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git/objects: 6c
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git/objects: 75
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git/objects: 7d
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git/objects: 89
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git/objects: 9b
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git/objects: a9
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git/objects: b3
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git/objects: ca
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git/objects: e2
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git/objects: ec
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git/objects/info: packs
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git/objects/pack: pack-1131b8b69dd6bb148fe154d578cf702f85611c67.idx
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git/objects/pack: pack-1131b8b69dd6bb148fe154d578cf702f85611c67.pack
+Only in ./sdf1/ohcg/HackersCardgame10/.git/objects/pack: pack-3575670fa13ede240096fabc96e7fa940278234c.idx
+Only in ./sdf1/ohcg/HackersCardgame10/.git/objects/pack: pack-3575670fa13ede240096fabc96e7fa940278234c.pack
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git/objects/pack: pack-3896775a002544e44ff784c0c3c16697b4778135.idx
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git/objects/pack: pack-3896775a002544e44ff784c0c3c16697b4778135.pack
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git/objects/pack: pack-3a060348cae08692e6b455c913b2a8cd0da996f3.idx
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git/objects/pack: pack-3a060348cae08692e6b455c913b2a8cd0da996f3.pack
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git/objects/pack: pack-6f70b245c0de6cdb57a1fcf273eb0e4cb70bc6a1.idx
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git/objects/pack: pack-6f70b245c0de6cdb57a1fcf273eb0e4cb70bc6a1.pack
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git: ORIG_HEAD
+diff -r ./sdf1/ohcg/HackersCardgame10/.git/packed-refs ./sdd1/Daten.2020b/code/HackersCardgame10/.git/packed-refs
+2c2,3
+< 06f1d9c884ae439444b57ea3b7518e3f90a85551 refs/remotes/origin/master
+---
+> f6cc308d4234942c86c9060de175764fb377f43c refs/heads/master
+> 8a5d980440d0466218d12bd3869ce4176e330668 refs/remotes/origin/master
+diff -r ./sdf1/ohcg/HackersCardgame10/.git/refs/heads/master ./sdd1/Daten.2020b/code/HackersCardgame10/.git/refs/heads/master
+1c1
+< 06f1d9c884ae439444b57ea3b7518e3f90a85551
+---
+> f740ad2d70c3972435ad3c1e3e9fb018dc125726
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/.git/refs/remotes/origin: master
+Only in ./sdf1/ohcg/HackersCardgame10: sva.clip
+Only in ./sdf1/ohcg/HackersCardgame10: sva.clip.txt
+Only in ./sdf1/ohcg/HackersCardgame10/TODO: PfisterersHahahaPaedoKnasti
+Only in ./sdf1/ohcg/HackersCardgame10/TODO/problem-upc-nach-dem-neues-modem-aufgeschwatzt-wurde: 20200629_172621.jpg
+Only in ./sdf1/ohcg/HackersCardgame10/TODO/PsychiatrieLeaks: meineAktenUnzensiert
+Only in ./sdf1/ohcg/HackersCardgame10/TODO: rang031-wohl-einige-eher-straftaeter-als-polizei.pdf
+Only in ./sdf1/ohcg/HackersCardgame10/TODO/teamSheeple: 200627.txt
+Only in ./sdf1/ohcg/HackersCardgame10/TODO/teamSheeple: mail
+Only in ./sdf1/ohcg/HackersCardgame10/TODO/teamSheeple: solar01.jpg
+Only in ./sdf1/ohcg/HackersCardgame10/TODO/teamSheeple: solar02.jpg
+Only in ./sdf1/ohcg/HackersCardgame10/TODO/teamSheeple: solar03.jpg
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/TODO/teamSheeple/twitter/data: direct_messages_group_media
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/TODO/teamSheeple/twitter/data: fleet_media
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/TODO/teamSheeple/twitter/data: moments_media
+Only in ./sdd1/Daten.2020b/code/HackersCardgame10/TODO/teamSheeple/twitter/data: moments_tweets_media
