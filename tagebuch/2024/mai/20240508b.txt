@@ -131,7 +131,21 @@ t.me/HackersCardgame/2406
 -=[ Wed May 8 08:39:45 AM CEST 2024 ]=-
     ==============================
 
+mit diff -R findet man recht schnell raus was die versucht haben zu löschen, dann sind interessanterweise Backups von Social media weg, und dinge zu urs blum. Urs Blum hat scheinbar auch die möglcihekit bei microsoft github repositories löschen zu lassen
 
+Interessanterweise will man mir immer den Marc Weber als > HAUPTTÄTER < schmackhaft machen, aber diese Dateien sind INTERSSANTERWEISE noch alle da.
 
+Seit 20 Jahren ist ja "debugger" ein triggerwort von Urs Blum, und somit auch gdb
 
+neu ist VERMUTLICH auch diff ein triggerwort von urs 
+
+verbindet man die funktionen eines debuggers mit den funktionen eines diff'ers landet man vermtlich bei etwas wie bindiff
+
+somit wäre bindiff der superlativ [LOCK] eines reizwortes für den ehrenhaften Offizier der Schweizer Armee urs blum 
+
+[LOCK] <- hmmmm, ich frag mich wer jetzt hier überhaupt einen grund hat marc jr in ICD10 F44.x zu schalten
+
+    ==============================
+-=[ Wed May 8 10:16:13 AM CEST 2024 ]=-
+    ==============================
 
