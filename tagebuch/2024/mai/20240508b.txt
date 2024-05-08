@@ -149,3 +149,19 @@ somit wäre bindiff der superlativ [LOCK] eines reizwortes für den ehrenhaften 
 -=[ Wed May 8 10:16:13 AM CEST 2024 ]=-
     ==============================
 
+dann VERMUTE ich, dass dieses Tagebuch (was auch gerne von Gleichaltrigen und Jüngeren gelesen werden darf, oder auch von guten Menschen wie Frank, Fefe, Julian, John Hunter ...) für alle Menschen die keine "Intrapersonellen Probleme" [1] haben eine FREIWLIIGE Informatik Vorlesung, denn muss man nicht zwangsneurotisch seine Straftaten vertuschen, würde man jetzt vermutlich wenn man das noch nicht kennt mal genauer nachlesen was ...
+
+* ein debugger
+* gdb
+* diff
+* bindiff
+
+... ist, VERMUTE ICH JETZT MAL
+
+
+[1] Euphemismus für Schuldbewusstsein, ...
+
+    ==============================
+-=[ Wed May 8 10:22:21 AM CEST 2024 ]=-
+    ==============================
+
