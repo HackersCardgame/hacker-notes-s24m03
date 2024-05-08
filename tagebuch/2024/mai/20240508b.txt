@@ -122,6 +122,9 @@ mehrstufige zensurfunktion / design patterns welche von telegram selber verhinde
 
 die user sperre verhindert, dass man eine meldung macht für die Sperre in öffentlichen gruppen
 
+t.me/HackersCardgame/2406
+
+
 
 
     ==============================
