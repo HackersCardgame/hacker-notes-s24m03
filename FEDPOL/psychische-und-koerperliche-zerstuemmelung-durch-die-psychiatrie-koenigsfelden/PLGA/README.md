@@ -10,4 +10,15 @@ Ich hätte ein paar Fragen sehr geehrte Ehren Richter Psychiater, insbesondere a
 
 [LOCK]
 
+dann seit ca 2003 gabe es immer die möglichkeit vor Gericht zu gehen um einspruch gegen die Zwnagsmedikation zu machen.
 
+Da habe ich mich lange nicht getraut, weil ein Mitarbeiter der PKK/PDAG hat damals gesagt:
+
+Die Gerichtsverhandlung wäre im "Blauen Saal" (und da wurde nonverbal / über technologie jeweils dran gehängt: "da wirst Du von blauen Polizsiten vergewaltigt und dann erschossen") also habe ich sehr lange keinen Einspruch gemacht
+
+somit wäre diese "geheime" übermittlung (bzw ein StGB 180 gegen Marc jr, wenn auch schwer nachzuweisender Kommunikationskanal) nur dazu da, dass Richter und Staatsanwälte weniger schnell auffliegen
+
+die Richterin Bauhofer ist in der EVP (Evangelische Volkspartei) und ich/wir vermuten, dass sie die straffälligen Offiziere und Offiziers-Familien öfters mal unter einem gehäuchelt christlichen Denkmantel tarnen
+
+
+Thu May  9 08:23:49 AM CEST 2024
