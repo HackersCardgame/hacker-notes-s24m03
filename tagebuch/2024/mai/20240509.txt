@@ -55,7 +55,7 @@ ich vermute, da wird
 1. die Beweismittelt gelöscht (z.B. mails an richterin bauhofer)
 2. die repositories auf github gelöscht
 3. auf den lokalen datenträgern des .git verzeichnis sabotiert, damit man keinen neuen checkout machen kann
- -> also das sind schon menschen die wage ahnung von computern habe, ich VERMUTE mal Urs Blum hat damals die Klassen ic01 und ia03 als Zensoren aufgekauft
+ -> also das sind schon menschen die wage ahnung von computern habe, ich VERMUTE mal Urs Blum hat damals die Klassen ic01 und ia03 (oder mindestens einige dort) als Zensoren aufgekauft
  
      ==============================
 -=[ Thu May 9 02:00:40 AM CEST 2024 ]=-
