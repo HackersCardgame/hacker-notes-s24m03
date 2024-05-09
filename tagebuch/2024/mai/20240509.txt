@@ -194,5 +194,18 @@ Esoterik ist CLOSED SOURCE der Militärs. Menschen vollführen irgendwelche Ritu
 -=[ Thu May 9 04:01:02 AM CEST 2024 ]=-
     ==============================
 
+Dann wieder etwas für die Kleineren:
 
+
+BEHAUPTUNG [1]:
+In Aarau gibt es seit 400 Jahren Indiander, und das MIDESTENS seit 1674 (Hinweis zu dem Puzzle: IMAG0306-scaled.jpg)
+
+
+[1] das ist in diesem Fall mathematisch gemeint: in der Aussagen-Logik oder Prädikaten-Logik [2] kann eine Behauptung richtig oder falsch sein
+
+[2] wer eher Nerd-Kram mag und sich nicht oder noch nicht für Mathematik begesitern kann, dem macht es allenfalls spass sich mal mit der Programmiersprache "PROLOG" auseinander zu setzen und damit etwas herum zu basteln rumbasteln
+
+    ==============================
+-=[ Thu May 9 04:07:14 AM CEST 2024 ]=-
+    ==============================
 
